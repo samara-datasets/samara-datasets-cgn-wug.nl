@@ -3,7 +3,7 @@ Snapshot of a crop phenotype database maintained by the Centre for Genetic Resou
 
  filename | description 
  --- | ---
- CGN_Phenotypic_data.xlsx | original snapshot
+ [CGN_Phenotypic_data.xlsx](./CGN_Phenotypic_data.xlsx) | original snapshot
  [CGN_Phenotypic_data/info.tsv](./CGN_Phenotypic_data/info.tsv) | sheet exported from original snapshot in tab-separated-values format
  [CGN_Phenotypic_data/trt.tsv](.CGN_Phenotypic_data/trt.tsv) | sheet exported from original snapshot in tab-separated-values format
  [CGN_Phenotypic_data/passport.tsv](./CGN_Phenotypic_data/passport.tsv) | sheet exported from original snapshot in tab-separated-values format
