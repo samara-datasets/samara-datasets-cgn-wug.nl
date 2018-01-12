@@ -4,14 +4,15 @@ Snapshot of a crop phenotype database maintained by the Centre for Genetic Resou
  filename | description 
  --- | ---
  CGN_Phenotypic_data.xlsx | original snapshot
- CGN_Phenotypic_data/info.tsv | sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/trt.tsv | sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/passport.tsv | sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/enr.tsv| sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/cnr.tsv | sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/meth.tsv | sheet exported from original snapshot in tab-separated-values format
- CGN_Phenotypic_data/score.tsv | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/info.tsv](./CGN_Phenotypic_data/info.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/trt.tsv](.CGN_Phenotypic_data/trt.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/passport.tsv](./CGN_Phenotypic_data/passport.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/enr.tsv](./CGN_Phenotypic_data/enr.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/cnr.tsv](./CGN_Phenotypic_data/cnr.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/meth.tsv](./CGN_Phenotypic_data/meth.tsv) | sheet exported from original snapshot in tab-separated-values format
+ [CGN_Phenotypic_data/score.tsv](./CGN_Phenotypic_data/score.tsv) | sheet exported from original snapshot in tab-separated-values format
 
+Note that date/time values in the tsv files are expressed in the [ISO8601 format](https://www.iso.org/iso-8601-date-and-time-format.html).
  
 For more information about this dataset, please visit:
 
