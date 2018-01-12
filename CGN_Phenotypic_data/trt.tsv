@@ -1,0 +1,711 @@
+TRT	TRAIT
+542	Mycosphaerella brassicicola
+543	Xanthomonas campestris
+544	Salt tolerance (4 g/l NaCl)
+545	Number of inner leaves
+546	Petiole crossing of one or two leaves
+547	Leaf blade: shape of the tip
+548	Leaf blade: lobing
+549	Leaf retention on stem
+550	Stem shape in longitudinal section
+551	Stem length/diameter ratio
+552	Stem color
+553	Shape of apex
+554	Global uniformity
+555	Floral apex branching pattern
+556	Flowering head color surface
+557	Flowering head solidity
+558	Pyrenophora teres (Net blotch)
+559	Pyrenophora graminea (Stripe)
+560	Yield
+561	Mild mosaic virus + yellow mosaic virus 1 and 2
+562	Mild mosaic virus + yellow mosaic virus 1
+563	Mycosphaerella graminicola
+564	Phytophthora porri
+565	Presence of dark green shoulder on the unripe fruit
+566	Ribbing at calyx end
+567	Predominant fruit skin colour at maturity
+568	Secondary fruit skin colour
+569	Secondary skin colour pattern
+570	Main colour of flesh
+571	Flesh thickness
+572	Predominant seed coat colour
+573	Soluble solids
+574	Alternaria brassicicola
+575	Melampsora lini
+576	Hypocotyl anthocyanin content
+577	Cotyledon anthocyanin content
+578	Peronospora parasitica
+579	Brevicoryne brassicae
+580	Albugo occidentalis (white rust)
+581	Fusarium oxysporum f.sp. spinaciae
+582	Winter survival
+583	Leaf main vein color
+584	Crossability Index to B. rapa
+585	Head smoothness
+586	Colour of head
+587	Colour of inside head
+588	Thickness leaves inside head
+589	Tomato Spotted Wilt Virus
+590	Incision of rosette leaves
+591	Incision of cauline leaves
+592	Leaf, depth of incisions of margin
+593	Radish, shape
+594	Radish, shape of top
+595	Radish, shape of base
+596	Radish, color of skin
+597	Radish, color of upper part
+598	Extent of white tip
+599	California Thrips (Frankliniella occidentalis)
+600	Anthracnose (Colletotrichum capsici)
+601	Pepino Mosaic Virus (PepMV)
+602	Tomato Yellow Leaf Curl Virus (TYLCV)
+603	Downy mildew (Pseudoperonospora cubensis)
+604	Powdery mildew (Sphaerotheca fuliginea)
+605	Cladosporium cucumerinum (vruchtvuur)
+606	Corynespora cassiicola (bladvuur)
+607	Cucumber vein yellow wing virus (CVYV)
+608	Watermelon mosaic virus (WMV)
+609	Cucumber mosaic virus (CMV)
+610	Meloidogyne incognita
+611	Meloidogyne javanica
+612	Cucumber Green Mottle Mosaic Virus (CGMMV)
+613	Height of first pod
+614	Anthocyanin coloration of axil
+615	Orobanche ramosa, pathovar C
+616	Kohlrabi: height
+617	Fusarium Head Blight
+618	Number of lobes
+619	Exterior root colour above ground
+620	Exterior root colour below ground
+621	Interior root colour
+622	Root flesh colour distribution in transverse section
+623	Root: shape in longitudinal section
+624	Flowering synchrony among plants
+625	Crop usage
+626	Inflorescence: anthocyanin coloration
+627	Flag leaf length
+628	Spreading
+629	Time of inflorescence emergence
+401	Veniation of the petals
+630	Petiole and/or midvein colour
+631	ß-carotene content
+632	Iron content
+633	Erwinia carotovora (bacterial soft rot)
+634	Time period until marketable maturity
+638	Beak Length
+639	Leaf blade shape
+640	Lamina blade length
+641	Lamina blade width
+642	Leaf edge
+643	Number of lobelets
+644	Phosphate content
+645	Phytate content
+646	Petiole and/or midvein width
+647	Petiole and/or midvein enlargement
+648	Silique length
+649	Silique surface outline
+650	Silique width
+651	Chlorofyl content
+652	Root length
+653	Seed number per silique
+654	Silique angle
+655	Seed number per spike
+680	Leaf dentation of margin
+681	Leaf reflexing of blade
+682	Root shape of shoulder
+683	Root shape of tip
+684	Whitefly resistance
+685	Trichome density type IV according to Luckwill (1943)
+686	Growing conditions
+687	Leaf attitude at juvenile stage
+688	Leaf blade division at juvenile stage
+689	Head formation
+690	Leaf anthocyanin coloration
+691	Leaf glossiness of upper side
+692	Size of leaf blisters
+693	Leaf margin incisions on apical part
+694	Leaf margin density of incisions on apical part
+695	Stem fasciation
+696	Intensity of stem fasciation
+697	Lactuca Mozaic Virus
+698	Leaf attitude at harvest maturity
+699	Plant attitude
+700	Leaf profile apical part in longitudinal section
+701	Leaf torsion
+702	Leaf intensity of green color
+703	Dentation of outer leafs
+704	Prominence of leaf veins
+705	Leaf margin incisions
+706	Flower stem anthocyanin coloration
+707	Peronospora valerianellae
+708	Seed release time
+709	Leaf shape uniformity
+710	Color uniformity
+711	Turgidity
+635	Puccinia striiformis f. sp. bromi
+636	Puccinia striiformis f. sp. tritici
+637	Puccinia striiformis f. sp. hordei
+656	Crisp suitability after cold storage
+657	Fruit base color
+658	Fruit over color
+659	Fruit over color percentage
+660	Fruit drop
+661	Acid/sugar ratio
+662	Taste
+663	Ripeness
+664	Skin thickness
+665	New shoot growth
+666	New shoot regrowth
+667	Buds/spurs density
+668	Growth speed
+669	Branche angle
+670	General tree architecture
+671	Apple powdery mildew (Podosphaera leucotricha)
+672	Apple scab (Venturia inaequalis)
+673	Apple canker (Neonectria galligena)
+674	Radish, position in soil
+675	Radish, shape of shoulder
+676	Extent of colored top if radish has two colors
+677	Radish, color of lower part
+678	Presence of anthocyanin in petioles and/or midvein
+679	Time of leaf ageing
+15	Pod number per node
+1	Internode length
+2	Fasciation
+3	Flower insertion height
+4	Flower color
+5	Pod length
+6	Ovule number per pod
+7	Thousand grain weight
+8	Testa color
+9	Seed shape and surface
+10	Cotyledon color
+11	Basal branching
+12	Leaflet number per leaf
+13	Leaflet size
+14	Tendril number per leaf
+30	Seed size
+16	Seed number per pod
+17	Internode number
+18	Spike density
+19	Lodging susceptibility
+20	Spike brittleness
+21	Row number
+22	Growth height
+23	Awnedness - hoodedness
+24	Lemma color at maturity
+25	Seed color
+26	Seed hull
+27	Seed shape
+28	Flagleaf auricle color
+29	Glume color
+45	Rachilla hair length
+31	Spike emergence time
+32	Spike length
+33	Awn length
+34	Threshability
+35	Stem brittleness
+36	Seed shattering tendency
+37	Annuality
+38	Winter susceptibility
+39	Sprouting tendency
+40	Glume hairiness
+41	Awn attitude
+42	Awn coarseness
+43	Spike shape
+44	Awn brittleness
+60	Early growth tendency
+46	Second growth tendency
+47	Spike breaking susceptibility
+48	Silk emergence time
+49	Ear insertion height
+50	Ear number per plant
+51	Ear length
+52	Seed type
+53	Tillering tendency
+54	Ear shape
+55	Pericarp color
+56	Ear thickness
+57	Silk anthocyanin content
+58	Flowering time begin
+59	Flowering time end
+75	Leaf sheath waxiness
+61	Erysiphe graminis
+62	Puccinia hordei
+63	Rhynchosporium secalis
+64	Heading time
+65	Ripening time
+66	Flower heads number
+67	Seed pod number per plant
+68	Seed pod insertion height
+69	Harvest time
+70	Oil content
+71	Gamma linolenic acid content
+72	Heading plants number
+73	Awnedness
+74	Growth habit
+90	Rachis brittleness
+76	Leaf blade waxiness
+77	Stem waxiness
+78	Spike waxiness
+79	Flowering time
+80	Flag leaf width
+81	Stem anthocyanin content
+82	Rudiment. spikelet number
+83	Spikelet number per spike
+84	Spike breaking type
+85	Glume awnedness
+86	Lemma awnedness
+87	Spike basis wedge shape
+88	Awn number per glume
+89	Spikelet fertility
+105	Tepal width
+91	Flower shape
+92	Flower length
+93	Flower width
+94	Flower number
+95	Leaf number
+96	Leaf width
+97	Leaf length
+98	Pollen color
+99	Stem length
+100	Stem hairiness
+101	Stem thickness
+102	Leaf undulation
+103	Leaf attitude
+104	Tepal shape
+120	Seed length
+106	Tepal tip shape
+107	Tepal incisedness
+108	Tepal notchedness
+109	Tepal blotch color
+110	Leaf anthocyanin content
+111	Leaf anthocyanin pattern
+112	Leaf sheath hairiness
+113	Stem pith presence
+114	Spike width
+115	Spike color
+116	Awn color
+117	Glume length
+118	Spikelet width
+119	Seed number per spikelet
+135	Botrytis fabae
+121	Seed width
+122	Endosperm structure
+123	Palea splitting tendency
+124	Lemma hairiness
+125	Glume keel shape
+126	Glume shoulder shape
+127	Glume beak shape
+128	Glume beak length
+129	Lemma beak shape
+130	Rachis hairiness
+131	Pod number per plant
+132	Pod attitude
+133	Pod insertion height
+134	Hilum color
+150	Tuber peel color
+136	Ascochyta pisi
+137	Erysiphe pisi
+138	Peronospora pisi
+139	Seed protein content
+140	Spikelet length
+141	Branching
+142	Leaf shape
+143	Tuber initiation time
+144	Tuber filling time begin
+145	Flowering plant number
+146	Tuber number per plant
+147	Tuber weight
+148	Tuber shape
+149	Tuber uniformity
+165	Multigermicity
+151	Stolon length
+152	Tuber separability haulm
+153	Nest making tendency
+154	Footstalk length
+155	Tepal number
+156	Stigma lobe shape
+157	Leaf margin pattern
+158	Helminthosporium teres
+159	Heterodera schachtii
+160	Fertilisation type
+161	Beet shape
+162	Flesh coarsness
+163	Skin color
+164	Flesh color
+180	Leaf color
+166	Hypocotyl color
+167	Chromosome number
+168	Stem betacyanin pattern
+169	Foliage diameter
+170	Root division
+171	Root thickness
+172	Inflorescence length
+173	Inflorescence type
+174	Fruit size
+175	Fruit shape
+176	Mature fruit color
+177	Immature fruit color
+178	Fruit ribbing
+179	Leaf type
+195	Filament length
+181	Fruit top hardness
+182	Fruit cracking tendency
+183	Fruit firmness
+184	Pericarp thickness
+185	Fruit puffiness
+186	Vigor
+187	Pedicel jointlessness
+188	Blotchy ripening
+190	Fruit setting ability
+191	Locule number
+189	Fruit section shape
+192	Foliage cover
+193	Fruit yellow top
+194	Filament color
+210	Beet dry matter content
+196	Anther color
+197	Anther length
+198	Stem number
+199	Bract length
+200	Bract width
+201	Leaf thickness
+202	Stem color
+203	Leaf hairiness
+204	Male sterility
+205	Bract distribution
+206	Bract thickness
+207	Leaf fresh matter yield
+208	Leaf dry matter content
+209	Beet fresh matter yield
+225	Receptacle thickness
+211	Sugar content
+212	Petiole color
+213	Bolting tendency
+214	Erysiphe sigoratiorum
+215	Flower induction time
+216	Botrytis cinerea
+217	Sclerotinia sclerotiorum
+218	Head attitude
+219	Head acceptability
+220	Alternaria ziniae
+221	Head diameter
+222	Head shape
+223	Oleic acid content
+224	Linolic acid content
+240	Plant diameter
+226	Seed yield
+227	Palmitic acid content
+228	Stearic acid content
+229	Alfa linolenic acid cont.
+230	Eicosenoic acid content
+231	Stem elongation time end
+232	Tuber yield
+233	Seedling anthocyanin cont
+234	Leaf anthocyanin distribution
+235	Leaf blistering
+236	Leaf margin undulation
+237	Leaf venation
+238	Heart formation
+239	Head leaves overlap
+255	Wrapper leaf blistering
+241	Bolting time
+242	Homogeneity
+243	Seedling cotyledon shape
+244	Seedling cotyledon color
+245	Side shoot formation tend
+246	Tipburn sensitivity
+247	Leaf division
+248	Head height
+249	Linoleic acid content
+250	Linolenic acid content
+251	Erucic acid content
+252	Leaf size
+253	Leaf nerve color
+254	Leaf crimping
+270	Tuber dry matter content
+256	Wrapper leaf color
+257	Wrapper leaf anthocyan content
+258	Head size
+259	Head firmness
+260	Head covering
+261	Leaf folding
+262	Blister size
+263	Head field durability
+264	Leaf bloom
+265	Outer stem length
+266	Inner stem length
+267	Inner stem diameter
+268	Puccinia triticina
+269	Puccinia striiformis
+285	Aging diseases
+271	Fructose content
+272	Quotient fructose/glucose
+273	Purity coefficient
+274	Glucose content
+275	Erysiphe spp.
+276	Emergence time
+277	Flower anthocyanin content
+278	Seed dry matter content
+279	Myzus persicae
+280	Closed crop period
+281	Flowering period
+282	Petal size
+283	Flower shattering tendency
+284	Receptacle dry matter content
+300	Curd firmness
+286	Physiological maturity
+287	Nitrate content
+288	Leaf base margin
+289	Leaf tip torsion
+290	Petiole length
+291	Curd covering
+292	Curd size
+293	Curd shape
+294	Curd doming
+295	Curd color
+296	Curd anthocyanin content
+297	Curd knobbling
+298	Curd texture
+299	Curd riceness
+315	Leaf tip shape
+301	Bulb shape
+302	Bulb skin color
+303	Bulblet presence
+304	Bulb skin thickness
+305	Bulb flesh color
+306	Bulb hearting
+307	Bulb shape uniformity
+308	Storage organ type
+309	Foliage color
+310	Leaf sheath length
+311	Pseudo stem diameter
+312	Curd field durability
+313	Reproduction mode
+314	Leaf waxiness
+316	Leaf vein prickles
+317	Stem prickles
+318	Leaf blade size
+319	General performance
+320	Plant weight
+321	Blade weight/plant weight
+322	Leaf color intensity
+323	Stem diameter
+324	Seedling size
+325	Leaf blade cupping
+326	Petiole attitude
+327	Petiole anthocyanin content
+328	Sprout shape
+329	Sprout anthocyanin content
+330	Sprout column shape
+331	Wrapper leaf rotting tend
+332	Thrips tabaci sensitivity
+333	Young leaf color
+334	Young leaf color intensity
+335	Leaf blade length
+336	Leaf midrib curvature
+337	Leaf blade curling
+338	Petiole lobe number
+339	Yellow dwarf virus resistance
+340	Seed harvest time
+341	Sprout color
+342	Rizomania
+343	Petiole width
+344	Ring formation
+345	Beet position
+346	Foliage attitude
+347	Foliage cranking
+348	Bulb size
+349	Bulb top shape
+350	Bulb base shape
+351	Bulb splitting tendency
+352	Bulb skin color intensity
+353	Bulb root disk position
+354	Foliage falling time
+355	Bulb shape length
+356	Seedling betacyanin content
+357	Cerospora beticola
+358	Seed spines
+359	Leaf glossiness
+360	Leaf lobing
+361	Midrib length
+362	Midrib width
+363	Peronospora farinosa
+364	Female plant number
+365	Monoeciousness
+366	Leafed male plant number
+367	Female flower on monoecious plants
+368	Macrosiphum euphorbiae
+369	Uroleucon sonchi
+370	Pemphigus bursarius
+371	Nasonovia ribisnigri
+372	Myzus persicae
+373	Plasmodiophora brassicae
+374	Sprout distance
+375	Peronospora destructor
+376	Phoma lingam
+377	Leaf betacyanin pattern
+378	Leaf rosette height
+379	Flower size
+380	Flower prickels presence
+381	Fruit length
+382	Fruit width
+383	Fruit type
+384	Fruit attitude
+385	Fruit set time
+386	Fruit fleshiness
+387	Fruit outerwall thickness
+388	Harvest time begin
+389	Leaf pubescence
+390	Corolla spot presence
+391	Flower attitude
+392	Stigma length
+393	Fruit corrugation
+394	Fruit pungency
+395	Branching height
+396	Leaf margin incision
+397	Calyx prickels
+398	Immature fruit color intensity
+399	Immature fruit color pattern
+400	Fruit gloss intensity
+402	Under calyx fruit color
+403	Stem top hairiness
+404	Calyx color
+405	Erysiphe cichoracearum
+406	Bremia lactucae
+407	Cladosporium
+410	Tobacco mosaic virus
+412	Blossem-end rot
+413	Relative growth rate
+414	Phytophthora nicotianae
+415	Didymella lycopersici
+416	Oidium lycopersicum
+417	Clavibacter michiganensis
+421	Leaf prickles
+422	Fruit yield
+408	Verticillium
+423	Fruit weight
+411	Fruit set begin
+419	Meloidogyne
+420	Necrosis
+418	Fusarium oxysporum f. sp. melongenae
+424	Fruit green edge on ripe fruit
+425	Leaf surface shape
+426	Branching flowering plant
+427	Fusarium oxysporum
+428	Plant length
+429	Leaf density
+430	Longest leaf length
+431	Leaf grooving
+432	Leaf shape cross section
+433	Shaft length
+434	Shaft diameter
+435	Shaft bulbing
+436	Involucral leaf attitude
+437	Bulb skin color uniformity
+438	Seedling growth habit
+439	Petal color
+440	Boll type
+441	Lodging resistance
+442	Sepal dotting
+443	Boll size
+444	Boll septum ciliation
+445	Fibre content
+446	Fusarium oxysporum f. sp .lini
+447	Fusarium oxysporum f. sp. pisi
+448	Fusarium solani f. sp. pisi
+449	Aphanomyces euteiches
+450	Heterogeneity
+451	Fusarium culmorum
+452	Sex expression
+453	Parthenocarpy
+454	Fruit thickness
+455	Fruit shape stem end
+456	Fruit skin color
+457	Cotyledon bitterness
+458	Fruit vestiture type
+459	Fruit vestiture color
+460	Fruit bitterness stem end
+461	Fruit skin mottling
+462	Fruit skin striping
+463	Sclerotium cepivorum
+464	Botrytis aclada
+465	Botrytis squamosa
+466	Puccinia porri
+467	Length/diameter ratio
+468	Hermaphroditism
+469	Leaf covering
+470	Flower number per inflorescence
+471	Pedicel length
+472	Fruit curvature
+473	Fruit apex shape
+474	Fruit surface roughness
+475	Fruit flesh density
+476	Calyx lenght
+477	Fruit number per infruitescence
+478	Fruit number per plant
+479	Shoot tip anthocya. cont.
+480	Calyx anthocyanin content
+481	Leaf surface convexity
+482	Globodera rostochiensis
+483	Globodera pallida
+484	Meloidogyne hapla
+485	Meloidogyne chitwoodi
+486	Meloidogyne fallax
+487	Phytophthora infestans on foliage
+488	Synchytrium endobioticum
+489	Phoma exigua var. foveata
+490	Fusarium coeruleum
+491	Potato virus M
+492	Potato virus X
+493	Potato virus Y
+494	Erwinia carotovora var. atroseptica
+495	Reducing sugar content
+497	Starch content
+498	Rhizoctonia solani
+499	Streptomyces scabies
+500	Vitamin-C content
+501	Salt tolerance
+496	Amylose content
+502	Tuber flesh color
+503	Fruit bitterness
+504	Fruit flesh browning
+505	Leaf margin
+506	Vine type
+507	Fresh pod color
+508	Fresh pod surface
+509	Fresh pod texture
+510	Fresh pod shape
+511	Seed surface
+512	Seed surface spot
+513	Hilum color
+514	Pod weight
+515	Pod width
+516	Pod thickness
+517	Locules per pod
+518	Cadmium content
+519	2-hidroxybut-3-enyl content
+520	2-propenyl content
+521	But-3-enyl content
+522	Pent-4-enyl content
+523	Indol-3-ylmethyl content
+524	2-phenethyl content
+525	4-methoxyindol content
+526	1-methoxyindol-3-ylmethyl content
+527	4-hydroxy-3-indol content
+528	Albugo candida infection
+529	Acid detegent fiber (ADF)
+530	Total glucosinolate content
+531	Fatty acid content (C18:1)
+532	Fatty acid content (C18:2)
+533	Fatty acid content (C18:3)
+534	Fatty acid content (C22:1)
+535	Nervonic acid content
+536	Rest fatty acid content
+537	Seed quality
+538	Deroceras spp. (Slugs)
+539	Ceutorhynchus pallidactylus (Cabbage stem weevil)
+540	Ceutorhynchus napi (Rape stem weevil)
+541	Psylliodes chrysophala (Flea beetle)

@@ -1,0 +1,1187 @@
+METH	UNIT	M_DESCR
+368	State	Longitudal section (1=broad obovate, 2=obovate, 3=elliptic, 4=broad elliptic, 5=circular, 6=transverse broad elliptic)
+369	State	At harvest maturity (1=very narrow elliptic, 2=1 to 3, 3=narrow elliptic, 4=3 to 5, 5=elliptic)
+370	State	At harvest maturity, at the middle of the plant (3= erect, 5= semi erect, 7= horizontal)
+371	Stand	At harvest maturity (1=absent or very few, 3=few, 5=medium, 7=many, 9=very many)
+372	mm	Average of 10 measurements, 1 measurement per plant. The most typical leaf was chosen.
+373	cm	Average of 10 measurements, 1 measurement per plant. The most typical leaf was chosen.
+374	cm	Average of 10 measurements (largest extension), 1 measurement per plant. The most typical leaf was chosen
+375	cm	Average of 10 measurements, 1 measurement per plant. The most typical leaf was chosen. Measured by means of a scale.
+344	Stand	(3=weak, 5=medium, 7=strong)R
+345	State	(1=flat, 2=flat thick, 3=flat globe, 4=globe, 5=high globe, 6=spindle, 7=cylinder, 8=flat top, 9=high top)R
+347	State	(1=single heart, 2=multi heart)
+348	State	The date is presented in weeks relative to the standard (-3=28/6, -2=4/7, -1=11/7, 0=18/7, 1=25/7, 2=1/8)
+352	State	(3=rounded, 5=medium rounded, 7=pointed, 9=very pointed)R
+354	State	(1=sharp, 2=oval, 3=round)
+355	State	(0=not bolting,.., 4=strongly bolting)
+356	State	(1=not bolting,.., 3=strongly bolting)
+357	State	(0=bad,.., 4=good)
+358	ppm	ppm. NO3 of plant juice by nitrate-analate addition method with ION-85.
+359	g	-
+360	Num	Calculate quotient.
+362	State	(1=yellow, 2=green, 3=gray, 4=blue, 5=red)
+363	Stand	(3=light, 5=medium, 7=dark)
+365	Stand	Measure at 2/3 of the stem (3=concave, 5=flat, 7=convex)
+366	Stand	(3=semi-erect, 5=horizontal, 7=drooping)
+37	Num	Count on main stem, average of three plants
+324	State	At harvest maturity. (1=narrow elliptic, 2=elliptic, 3=broad elliptic)
+327	Stand	1=absent or very weak, 3=weak, 5=medium, 7=strong
+328	Stand	(3=short, 5=medium, 7=long, 9=very long)
+330	State	(1=circular, 2=transverse broad elliptic, 3=transverse elliptic, 4=transverse narrow elliptic)R
+332	State	(1=absent, 9=present)
+333	Stand	(3=fine, 5=medium, 7=coarse)
+334	Stand	(3=loose, 5=medium, 7=solid)
+336	State	(3=prostrate, 5=medium, 7=erect)
+339	Stand	Measure halfway between the stem base and the outer lamina notch. (1= very narrow <26mm, ..., 9= very wide >39mm)
+341	State	(1=irregular, 9=uniform)
+342	Stand	(3=thin, 5=medium, 7=thick)
+343	State	(1=white, 2=green/white, 3=yellow, 4=red/white, 5=other)
+303	State	Score the damage to the leaves (1=no damage, .., 9=much damage, leaves are puckered, cracked and smaller)
+304	g/m2	Weigh the seeds with a moisture content between 5.3 and 7.2%
+306	Perc	At harvest, determined by drying 24 hours at 105°C
+309	State	(1=no lodging, 7= more than 5% of the plants are lodged, 9= stems break halfway up, 79=comb. of 7 and 9, x-y=replicates)
+311	Num	Count the days from sowing to 5% of plants start flowering
+312	Num	Count the days from sowing to 95% of plants are flowering
+314	Num	Count the days between sowing and the first brown seeds
+316	cm	Measure the longest stem per plant, average of 10 plants
+317	State	(1=creeping, 9=erect)
+318	State	Score after ripening (1=all flowers shatter, 9=no flowers shatter)
+320	g/m2	-
+322	Stand	Combination of 2 old IVT experiments.
+284	State	Percentage of leaf infected, inoculated with an isolate of Clement (0=0%,1=0-1%,..,8=-80%,9=-100%)R
+285	State	Presence of anthocyanin in main stem (0=nothing, 1=a little, 3=intermediair, 5=much)
+287	Num	Count the days from 1/1 until 50% of the plants have emerged
+289	cm	Measured about 1 month after emergence, average of 10 plants
+290	Stand	Scored about 1 month after emergence (1=a little, 9=very much)
+291	State	(1=white,2=black,3=variegated)
+293	Num	Vernalization. Count days from planting to corolla 1st flower visible (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+295	Num	No treatment. Count days from planting to 50% of plants harvestable (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+296	Num	Vernalization. Count days from planting to 50% of plants harvestable (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+308	Num	Count the days between sowing and harvesting
+298	Num	Count days after sowing until sporulation is visible on the head
+299	Num	Count the number of days that the leaves of adjacent rows overlap more than 10cm.
+300	State	(1=straight up, .., 5=completely hanging, xyz=combination of x y and z, x-y=intermediate between x and y)
+301	State	(1=convex, 3=flat, 5=concave, 7=trumpet, combinations possible)R
+263	Stand	Outer leaves, harvest maturity (3=few, 5=medium, 7=many)
+275	Perc	Reducing ability, after hydrolysis, using the Luff-Schoorl test liquid
+265	State	Outer leaf (1=absent, glossy, 3=low, 5=intermediate, 7=high, glaucous)
+266	State	(1=yellow green, 2=light green, 3=medium green, 4=dark green, 5=blue green, 6=light violet, 7=med. viol., 8=dark violet)
+269	State	At harvest maturity (1=uncovered, 2=semi covered, 3=covered)R
+270	Stand	Fraction of the head height. (3=1/4, 4=1/3, 5=1/2, 6=2/3, 7=3/4)
+271	cm	Measure at the base
+272	Stand	Outer leaves, at harvest maturity
+274	State	Score the infection type using the scale described by McNeal et al (Agric. Res. Serv. 34-121, 1971)R
+276	Perc	Percentage after hydrolysis, scored ezymatically with a YSImeter
+279	Num	Calculated as the quotient sugar content and dry matter content
+281	State	Inoculated with an isolate of Felix, score the infection type using the scale described by XSVPX  R
+253	State	(1=narrow elliptical, 2= broad elliptical to circular)
+244	State	(1=not present,9=present)
+245	State	At harvest maturity (0=no anthocyanin, 1=localised, 2=entire)
+246	State	At harvest maturity (0=no anthocyanin, 1=diffused, 2=in spots, 3=diffused and in spots)
+248	State	At harvest maturity (1= not flabellate, 2= flabellate)
+250	State	At harvest maturity, in longitudinal section(0=no head, 1=elliptic, 2=broad el., 3=circular, 4=transverse el.)R
+252	Stand	At harvest maturity (3=heterogeneous, 5=moderate homogeneous, 7=homogeneous)
+254	State	(1= yellowish green, 2=light green, 3=medium green, 4=grey green, 5=dark green, 6=blue green, 7=brown red)
+255	State	At harvest maturity (1=0, 3=1/3, 5=1/2, 7=2/3)
+256	Stand	At harvest maturity
+259	State	(1=yellow/white, 3=green, 5=red/purple, 7=brown, 9=blue/black, a=not(1,5,9), b=not(1,3,5,7,9))
+260	Stand	(3=low,7=high)
+262	State	Outer leaves, harvest maturity (1=horizontal, 5=semi erect, 9=erect)
+218	State	(1=angular, 9=round)
+219	kg/ha	Seed yield
+222	State	(1=self fertilisation, 5=intermediate, 9=cross fertilisation)
+223	State	(1=white,2=black)
+225	Num	Count the days from sowing to 50% of plants main stems are completely elongated
+226	cm	Measure a few plants from the ground to the top, after flowering
+227	cm	Measure a few plants from the ground to the first flowers
+228	Num	Number of branches of main stem
+230	Num	Maximum number
+232	State	(1=white, 5=mixed, 9=dotted)
+233	Num	Count the days from 25/5 to 50% of plants in flower
+235	mm	Measure at 2nd fertile node, without beak, average of 5 plants (V=variable)
+237	State	At least half a year after harvest (1=white, 2=brown, 3=violet, 4=black, 5=green)
+239	Num	Count and estimate the average number using a few plants (V=variable)
+241	cm	Average of 5 plants (V=variable)
+196	State	Observe at harvest (1=head green, 3=head yellow, 5=bracteoles yellow, 7=folliage dying/dead)
+209	State	(1=100%, 3=75%, 5=50%, 7=25%, 9=0%)
+200	State	(1=flat,2=concave,3=convex,4=flat with edges curled back,5=irregular,6=trumpet)
+202	Perc	-
+203	Perc	Extraction and gaschrom. determination of fatty acid composition of seed oils (RIKILT RAPP.87-17)
+205	State	Development 6-8 weeks after sowing (1=very good,3=good,5=medium,7=poor,9=very poor)
+207	Num	Days after 1/5 when 50 % of plants start flowering
+220	Perc	Total percentage fatty acids at 9% seed humidity
+211	cm	Maximum length measured from groundlevel during ripening, average of 5 plants
+213	Num	Total number of seedpots per (average) plant at ripening date
+214	cm	Distance ground to lowest pod, average of 5 plants
+215	Stand	(1=none, 3=some, 5=medium, 7=severe, 9=(almost) total lodging)
+216	State	Disclosure pods 7 days after ripening date (1=0%, 3=25%, 5=50%, 7=75%, 9=100%)
+217	Num	Days after 1/9
+172	Stand	(0=glabrous,1=very low,9=very high)
+173	State	(1=entire fertile, 2=semi fertile, 3=completly male sterile, white black or brown anthers containing no pollen)
+174	mm	Measure at last ramification, between the nerves, average of 4 measurements, 1 bract per plant
+175	State	Estimated yield ton/hectare using less than 11 plants (1=<10, 2=10-15, .., 8=40-45, 9=>45)
+187	mm	Measured arount harvest, average of five pods
+177	Perc	Juice, saccharose scale of the refractometer
+178	State	Main color mature leaves (1=yellow,2=green)
+179	State	Main color of petiole and leaf ribs (1=white, 2=yellow/light green, 3=green, 4=pink, 5=red)
+181	cm	Measure vegetative plant
+182	g	Weigh 500 dry seeds and multiply
+183	cm	Measurement, including spike, excluding awns
+185	mm	-
+186	Perc	Standardized ISTA method, using the seeds of one CGN germinability bag, usually 200 but sometimes 100 or 50 seeds, no dormancy breaking methods applied
+188	Num	Count the days after sowing until flower induction is visible by 50% of the plants
+190	Num	Estimate angle of head with stem (degrees, 0=straight, 180=totally hanging, 45-60 gives the range)
+192	cm	Average of 5 plants
+193	State	(1=not infected, .., 9=heavily infected)
+195	Num	Days after sowing
+151	mm	Measure the middle of the ear
+153	cm	Measure a few plants from the ground to the node bearing the upper ear, after flowering
+165	cm	Plant height of flowering plants
+156	mm	Measure largest width of just opened flowers, for lily types measure the width of lower part
+157	State	(0=no pollen, G=yellow, P=purple)
+160	State	(P=purple,W=white,Y=yellow)
+161	Num	Estimate the number of main stems at the root apex
+162	cm	Average bractlength (basic-top) at start of seed set. Sample size is 4 bracts, measured at last ramification
+164	mm	Average thickness of leaf measured between the veins, sample size is 4
+166	State	Estimate the cover of the leaf. (0=0%, 1=2%, 2=5%, 4=10%, 7=25%, 9=60%)
+168	Num	Count the days from 1/6 when 10% of plants start to flower
+170	State	Main color of stems (1=white, 2=yellow, 3=green)
+128	State	Flowering plant (1=erect, 2=erect and procumbent, 3=procumbent, 4=erect and prostate, 5=prostrate)
+129	State	(1=annual, 2=biennial, 3=perennial)
+131	cm	Flowering plants
+133	State	(1=narrow elliptic, 2=elliptic, 3=circular, 4=broad elliptic, 5=narrow oblong, 6=narrow obtriangular) R
+134	State	(1=single root,2=fanged root,3=very sprangled root)
+136	State	Outer root (1=white,2=yellow,3=orange,4=red,5=dark red)
+138	State	(0=no betacyanin, 1=striped, 2=entire red)
+140	State	(1=dark red,2=brownred,3=red,4=stone red,5=pinkred,6=pink,7=light pink,8=green,9=light gr.,10=white)
+141	Num	-
+154	g	Weigh more than 1000 dry seeds
+145	State	(1=amylaceous/floury,2=semi floury,3=dent,4=semi dent,5=semi flint,6=flint,7=pop,8=sweet,9=opaque)
+147	State	(1=white,2=pale yellow,3=yellow,4=orange,5=orange/red,6=red,7=brownish,8=purple,9=blueblack,0=other)
+149	State	(1=conical,5=slightly conical,9=cylindrical)
+121	Stand	(1=short,9=long)
+111	mm	At broadest point, excluding awns
+112	Num	-
+114	Stand	(3=endosperm mealy,not vitreous, 5=endosperm partly vitreous, 7=endosperm vitreous)
+115	State	(1=no keel, 3=narrowly winged upper 1/2, 5=winged <.2 mm., 7=<1 mm. wide wings, 9=wings wider than 1mm.)
+117	Stand	Bundle at base of spikelet.(1=no, 3=sparsly short, 5=mostly <2 mm, 7=<3 mm, 9=very dense,>3 mm long)
+119	State	Natural inoculation.(0=no infection, 1=little infection (<10%), 5=10-40%, 9=much infection (>40%))
+132	State	('+'=thickened, '-'=not thickened)
+122	Stand	(1=no, 5=little, 9=strong)
+124	State	Just opened flowers.(The Royal Hort. Soc. Color Code, followed by a coded addition)R
+126	Num	Count the number of nematodes after artificial inoculation. (Lubberts 1977, SVP berichten 1977 nr 5)
+127	Num	Fraction of plants with <10 nematodes, artficial inoculation. (Lubberts 1977, SVP berichten 77 nr 5)
+89	Num	(Number always < 10, standard notation to indicate variation)
+90	State	"(a-b=shape""a"" tending to shape ""b"", a/b=inside ""a"", outside ""b"")R"
+91	mm	Measure at the widest point
+92	State	"(a-b=shape""a"" tending to shape ""b"", a/b=inside ""a"", outside ""b"")R"
+93	Stand	(1=none or very little, .., 9=very clear)
+94	mm	Measure first leaf, largest width
+95	mm	Measure first leaf, from the point where leaf and stem disjoin
+96	Stand	(3=slightly erect, 5=45 degrees, 7=steeply erect)
+97	mm	Measure from to ground to the best developed flower
+98	mm	"Measure just below the thickening ""below"" the first leaf (might be under the ground)"
+110	mm	Measure the larger one
+100	State	Before opening.(1=double, 2=ball, 3=oval, 4=egg, 5=triangle, 6=square, 7=rectangle, 8=lily, 9=parrot)R
+102	State	(3=points, small spots, 5=broken line, .., 9=not or only nearly broken line)
+104	State	(0=no margin, Xa-b= X can be W for white or Y yellow, a and b indicate the range of the margin width)
+106	mm	Measure when the two rows are laterally oriented, excluding the awns, average of 10 spikes
+108	Stand	At maturity.(1=spike axis tough or flexible,3,5,7,9=axis shattering spontaneously)R
+71	State	At maturity (1=no, 2=whole spike, 3=partial spike, 4=single spikelet, wedge shape, 5=single spikelet, barrel shape)R
+73	State	(1=no, 2=uppermost spikelet only, 3=upper part spike, 4=all/most, longer to apex, 5=all/most, shorter, 6=all)R
+76	Num	Count total number on the 2 glumes on the lowermost fertile spikelet, average of 10
+88	mm	Measure the just opened flowers
+79	Stand	Score while threshing.(1=grain fused to lemma and palea, 9=grain very easily threshed)
+81	Stand	Score lower leaf, at spike emergence to anthesis
+80	Stand	Score flagleaf
+84	State	(1=tapering, 2=parallel, 3=fusiform, 4=semi-clavate, 5=clavate)
+85	State	Score at full maturity.(1=awns parallel, 5=awns~45 degrees, 9=awns~90 degrees)
+86	mm	Measurement, excluding awns, average of 10 spikes
+99	mm	"Measure from the ground to the thickening ""below"" the first leaf.(0=thickening under the ground)"
+52	cm	Distance (maximum) from tuber to main stem (tuber not included), average of 3 plants
+53	State	Observe during harvest (1=very lose, .., 9=inseparable)
+56	State	(1=erect, .., 9=prostrate)
+57	Stand	Score the sheath of the flagleaf at spike emergence
+58	Stand	Score the lower side of the blade of the flagleaf at spike emergence
+59	Stand	Score the neck
+62	cm	Average of 10 plants, at post anthesis to maturity
+63	Stand	Score the uppermost internode, at post anthesis to spike maturation
+65	mm	Excluding rudimentary spikelets and awns, average of 10
+77	Num	Count total number on the 2 glumes on the uppermost spikelet, average of 10
+68	State	Relative to adjecent rachis internode, upper 1/3 of spike.(spkl/intn: 1=<.5, 3=.5-1, 5=1, 7=1-1.5, 9=>1.5)
+26	Gene	Compair names with those in UK list 4/12/85 (Ml..=Ml-.., Ml(41/=Ml-(41/145))R
+27	State	(1=yellow/white, 5=red/brown, 9=purple/black, 0=other)
+30	State	(3=absent, 5=weak, 7=medium, 9=strong)
+31	Stand	(1=no, 5=some, 9=much)
+32	Stand	(1=tough, 5=brittle, 9=very brittle)
+34	Stand	(1=short(<spike), 5=medium(~spike), 9=long(>spike))
+35	State	Soon after flowering (1=parallel, 5=intermediate(~45 degrees), 9=angle of ~90 degrees)
+39	Num	Divide length (from stem) and (maximum) width of the leaf on the 6th internode, date: 1/8, average of 3 plants
+41	Num	Count the days from 1/7 when 50% of the stolons start to thicken
+43	Num	Count the days from 1/7 when 10% of plants start to flower.(999=no flowering)
+45	cm	Average of 3 plants
+46	Num	Count the days from 1/10 (dates before 1/10 get negative score)
+48	kg	Average of 3 plants
+11	State	(1=sessile hoods, 3=elevated hoods, 5=awnless or awnleted (<2cm), 7=awned, 9=awned on central rows only)R
+1	State	Old seeds (1=colorless, 2=single colored, 3=marbled, 4=dotted, 5=marbled and dotted)
+3	State	Old seeds, if necessary a few were smashed (1=green, 9=cream)
+4	g	Old seeds, at least 100 seeds were weighed
+5	State	(1=not present, 9=present)
+6	State	(1=white, 2=greenish, 3=pink, 4=dark purple, 5=red, 6=deviant)
+7	Num	Count nodes on main stem downwards, including 1st flowering node, not including scale nodes
+8	Stand	(3=lax, 7=dense)
+9	State	(1=2-rowed, 9=4- or 6-rowed)
+10	Stand	Measurement, including spike, excluding awns, related to standards
+22	Stand	Related to standards
+12	State	(1=yellow/white, 5=red/purple, 9=blue/black, 0=other)
+13	State	(1=naked, 9=covered)
+14	State	(1=rounded, 5=ovoid, 9=elongated)R
+15	State	(1=green, 9=red)
+16	Num	Count and estimate the average number using a few plants
+17	Stand	Measured at 1st internode above 1st flower when 1st pod is half grown or later, related to the population
+18	Stand	Measured arount harvest, average of five pods, related to the population
+19	Stand	(3=early, 7=late)
+20	Stand	-
+21	State	(1=winter type, 5=intermediate type, 9=spring type)
+33	State	(1=free threshing, 9=no free threshing)
+23	State	Infection type (1=O, 3=I, 5=II, 7=III, 9=IV)
+25	Gene	Compair names with those in Nordic Gene Bank june 1986 (Ml..=Ml-.., Ml(41/=Ml-(41/145))R
+377	Num	Infested soil. Taprootjuice. Elisa test. Extinction values x 100, relative to susceptible check (=100). 's'=susceptible.
+379	State	(0=absent, 1=spotted, 2=red vein, 3=entire red)
+380	State	Intensity of furrowing (1=regular, 2=intermediate, 3=irregular)
+382	Stand	Width of rings (1=very thin, .., 9=very thick)
+383	State	(1=very shallow, 3=shallow, 5=medium, 7=deep, 9=very deep)
+385	mm	Average of 4 measurements, 1 measurement per plant, most typical leaf was chosen.
+387	State	Scored 18/7 (1=rosette,2,3=bolting,4=<10%flower,5=10-50% flower,6= 50-100% flower,7=>90% past flowering)
+388	mm	Measure rosette leaves. 1 leaf/plant, 10-30 plants/accession.
+389	cm	Measure at stem basis of bolting plant.
+391	cm	Mean height of flowering plants when seed stalks cease to grow. 10-30 plants/accession.
+393	Stand	Score maximum length at maturity (3=short,5=medium,7=long)
+394	Stand	Score maximum width at maturity (3=narrow,5=medium,7=broad)
+395	Stand	(1=absent, 3=weak, 5=medium, 7=strong)
+397	State	(1=recessed, 3=flat, 5=round, 7=slightly pointed, 9=strongly pointed)
+399	State	(1=white, 2=green/white, 3=yellow, 4=red/white)
+400	State	(3=deep, 5=flat, 7=outstanding)
+402	Stand	(3=long, 5=medium, 7=flat)
+403	Stand	(1, 3=widest point close to base, 5, 7=widest point close to top, 9)
+404	State	(3=spreading, 5=medium, 7=erect)
+406	State	(1=yellow, 2=blue)
+407	Stand	(1=very resistant, ..., 9=very susceptible)
+409	State	Score at 7th leaf stage. (3=light, 5=medium, 7=dark)
+411	State	Score at 7th leaf stage. (3=erect, 5=semi-erect, 7=horizontal)
+413	Stand	Score at 7th leaf stage. (3=short, 5=medium, 7=long)
+414	Stand	Score at 7th leaf stage. (3=narrow, 5=medium, 7=broad)
+416	State	(1=very few female flowers on monoecious plants, 5=50%, 9=nearly always female flowers on monoecious plants)
+419	Stand	At bolting time (3=few, 5=medium, 7=many)
+420	Perc	Race 1, percentage of resistant plants.
+422	Perc	Race 3, percentage of resistant plants.
+425	mm	Measured on largest leaf at widest point, at harvest maturity, average of 10 plants.
+426	State	Score at harvest maturity (3=cupped, 5=straight, 7=reflexed)
+428	mm	Measure at harvest maturity, average of 10 plants.
+430	State	Score at harvest maturity (1=pale green, 2=green, 3=dark green, 5=red or purple)
+431	micg	Mean weight in micrograms of eight day old aphids per plant.R
+433	State	(1=partially resistant, intermediate susceptible, 3=susceptible)R
+435	State	Isolate 118 (1=little and small galls at hairy roots, .., 9=strong galls at taproot)R
+437	State	Means of 20 plants (1=no or very small reaction around stem, .., 4=plant dead)
+438	Perc	Percentage of fresh weight.
+440	Perc	Percentage of fresh weight. Measured polarimetric.
+442	Num	Infested soil. Taprootjuice. Elisa test. Extinction values.
+444	State	Resistance to B. lactucae race NL1 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+445	State	Resistance to B. lactucae race NL2 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+1183	Perc	Seeds germinated in soil, using 200 seeds, in heated greenhouse in spring and counting healthy seedlings
+446	State	Resistance to B. lactucae race NL3 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+447	State	Resistance to B. lactucae race NL4 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+448	State	Resistance to B. lactucae race NL5 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+449	State	Resistance to B. lactucae race NL6 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+450	State	Resistance to B. lactucae race NL7 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+451	State	Resistance to B. lactucae race NL10 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+453	State	Resistance to B. lactucae race NL12 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+455	State	Resistance to B. lactucae race NL14 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+457	State	Resistance to B. lactucae race NL16 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+459	State	Resistance to B. lactucae race 27/81(0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+461	State	Resistance to B. lactucae race 2/82 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+463	State	Resistance to B. lactucae race 4/82 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+464	State	(0=complete resistant, ..., 9=very susceptible)
+466	State	(2,3,4,5 = 8,6,4,2 days before Sonatine (=6) 7,8,9 = 2,5,8 days after Sonatine)
+468	State	Sonatine=3 (1=very little, 3 = little, 5=intermediate, 7=fleshy, 9=very fleshy)
+469	State	(0=absent, +=present)
+471	State	(1=very short, 3=short, 5=medium, 7=long, 9=very long)
+473	State	Determined at natural infection (0=no symptoms, +=symptoms present)
+475	State	(R=resistant to race 2.4.5.9.11., S=susceptible)
+477	State	(0=no expression, 1=very low, ..., 9=very high expression)
+478	State	(0=absent, +=present, ++=severe)
+479	g/g/d	Measure slope of growth curve at W=1g.
+481	State	(R=partially resistant to Didymella lycopersici, S=susceptible.)
+483	State	Mean disease index over 12 plants (0=no symptoms, ..., 5=dead)
+485	State	Nerves at bottom of leaves, Bruinsma Wonder=7 (0=glabrous, 3=sparse, 5=intermediate, 7= abundant, 9=very abundant)
+488	State	(0=absent, 1=very few, 3=few, 5=intermediate, 7=many, 9=very many prickles)
+489	State	(1=very low, 3=low, 5=intermediate, 7=high, 9=very high)
+491	State	R=partial resistant (low to medium levels)
+492	g	Measure the average weight of a fruit.
+493	State	(1=very early, ..., 9=very late)
+494	State	(R=resistant, S=susceptible)
+496	State	(A=compound, B=potato leaf, C=peruvianum type)
+498	Stand	Sonatine=7 (1=very light, 3=light, 5=medium, 7=dark, 9=very dark)
+500	Num	Count the number of leafs under the first inflorescence.
+501	State	(A=yellow, B=white)
+504	Stand	(0=absent, 1=very little, ..., 9=very high)
+506	State	(+=present, 0=pale, 1-9=intensity of the green colour of the  immature fruit : 1=very light, 9=very dark)
+507	Stand	(0=absent, 1=very few, 3=few, 5=half of the fruit, 7=most fruits, 9=all fruits)
+508	Stand	Sonatine=3
+510	State	(0=indeterminate, +=determinate)
+511	Stand	Sonatine=7
+512	Stand	Sonatine=6
+515	Ratio	Length/width ratio (1=length equals width, 2=length two times width, etc.)
+516	Stand	Score expanded leaf on main stem, Bruinsma Wonder=7
+519	Stand	Score the veins on the bottom of the leaf, Bruinsma Wonder=7 (0=glabrous,3=sparse,5=medium,7=abundant,9=very abundant)
+520	Stand	Bruinsma Wonder=7
+522	State	(A=white, B=light purple, C=purple, D=yellow, E=light green)
+523	Stand	Count the number of flowers per node, 9=9 or more
+524	Stand	(3=included, 5=same level, 7=exerted as compared with anther lenght)
+525	State	(A=blocky, B=conical, C=pepper, D=tomato-like, E=roundish, F=other, G=variable)
+526	State	Bruinsma Wonder=5 (1=very flattened, 3=flattened, 5=heigth equals width, 7=oblong, 9=very oblong)
+527	Stand	(0=smooth, 3=slightly corrugated, 5=medium, 7=corrugated, 9=very corrugated)
+528	State	Bruinsma Wonder=7 (1/9=light/dark green,A=cream,B=yellow,C=orange,D=purple,E=ivory,F=light yellow,a-b=both in one fruit)
+529	State	(A=dark red,B=light r,C=orange,D=salmon,E=canary,F=sulphur,G=green,I=brown,J=light orange,K=white,a-b=both in one fruit)
+530	Stand	Number of fruits, Bruinsma Wonder=3 (0=zero, 1=very low, ..., 9=very high)
+531	Stand	Bruinsma Wonder=3 (0=not pungent, 3=low, 5=intermediate, 7=high, 9=very high)
+532	Stand	Bruinsma Wonder=5
+533	Stand	Bruinsma Wonder=3
+534	Num	(1,2,3,4,5=5,4,3,2,1 weeks before Bruinsma Wonder(=6) 7,8,9=1,3,5 weeks after)
+536	State	(0=flattened, 1=very little bubbling, 3=little, 5=intermediate, 7=much, 9=very much bubbled)
+538	Stand	(0=white, 1=very light, 3=light, 5=intermediate, 7=dark, 9=very dark purple)
+540	cm	Measurement
+541	State	(A=purple, B=green, C=white, a-b=both a and b appear on one fruit)
+544	State	(A=green, B=purple, C=green and purple)
+545	State	Score at 7th leaf stage. (1=yellow-green, 2=grey-green, 3=blue-green)
+547	State	Score at 7th leaf stage. (3=horizontal, 5=semi-erect, 7=erect)
+548	Perc	Race 4, percentage of resistant plants.
+550	Stand	Determined at natural infection (0=no symptoms, .., 9=serious symptoms)
+551	Perc	Inoculated with f.sp. conglutinans race 1. Percentage of resistant plants.
+554	State	(3=almost horizontal, ..., 7=erect)
+555	State	(1=yellow-green, 2=green, 3=blue-green, 4=gray-green)
+558	Stand	At harvest time (1= very light, ..., 9= very dark)
+561	Date	Record the date when 50% of the tops have fallen (day-month)
+562	State	Scored in spring (1=rosette, 5= semi-erect, 9=erect)
+564	State	Dry seed (1= white, 2= white dotted, 3= brown, 4= marbled, 5= black, 6= yellow, 7= orange, 8= red, 9= other)
+565	Stand	Measure stem length without branches, on a bundle of stems, standards: Mikael=2, Amazone=4, Ariane=8.
+567	State	Standard: Laura=5 (1= dehiscent (= fully opened), 5= medium, 9= indehiscent (= fully closed))
+569	State	Score at harvest maturity (3= homogeneous, 5= medium, 7= heterogeneous)
+572	State	Moment of full maturity boll (1= very early, ..., 9= very late)
+574	Stand	Standards: Opaline=3, Liflora=7 (3=small, 5=medium, 7=large)
+575	State	Fraction infected plants (1=very low, 5=medium, 9=very high)
+577	Perc	Percentage in seed, analysed with NMR.
+579	State	Average of several plants (0=no lesions, ..., 5=completely rotted root)
+581	Stand	(1= no damage, ..., 9= completely killed)
+583	Stand	Natural infection (1=no symptoms, 2=0.5% of leaf area covered, 3=1%, 4=2%, 5=5%, 6=10%, 7=25%, 8=75%, 9=>75%)
+585	Stand	Dried seeds, weigh at least 200 seeds. Standards: Opaline = 1, Amazone = 5, Liflora = 9
+586	State	1= gherkin, 2= cucumber, 3=slicer
+587	State	1= determinate, 2= indeterminate
+589	Stand	Score first 15 internodes (3= short, 5= medium,  7= long)
+590	Stand	Score at market stage (3= short, 5= medium, 7= long)
+592	State	Score at market stage (1= necked, 2=acute, 3=obtuse, 99=other)
+594	State	Score ground color at market stage (1= white, 2= yellow, 3= green, 99=other)
+596	State	Measure at young fruit stage (1= hairs only, 2= prickles only, 3= hairs and prickles, 4=smooth)
+598	Stand	Score at physiological ripening (1= absent, 5= medium, 9= very strong)
+601	Stand	1= susceptible (all leaves affected), 5= medium resistant (all but 3 youngest leaves affected), 9= resistant (no damage)
+603	Stand	1= susceptible (100% of plants affected), 9= resistant (0% affected)
+604	Stand	1= susceptible (100% of plants affected)
+606	State	0= no flecking, 1= just few flecks, 2= few leaves with flecks, 3= all leaves with flecks
+607	State	Resistance to B. lactucae race 92O47 (R= resistant. S= susceptible. H= heterogeneous)
+608	State	Resistance to B. lactucae race 92D53-10 (R= resistant. S= susceptible. H= heterogeneous)
+609	State	Resistance to B. lactucae race 93D11 (R= resistant. S= susceptible. H= heterogeneous)
+610	State	Resistance to B. lactucae race 93D12 (R= resistant. S= susceptible. H= heterogeneous)
+611	State	Resistance to B. lactucae race 93D13 (R= resistant. S= susceptible. H= heterogeneous)
+612	State	Resistance to B. lactucae race 93D14 (R= resistant. S= susceptible. H= heterogeneous)
+613	cm/cm	Score ratio, length divided by diameter, no decimal. At market stage.
+614	Gene	+ = presence of Ml-(41/145)
+615	Gene	+ = presence of Ml-(CP)
+616	Gene	+ = presence of Ml-(Wo)
+621	Gene	+ = presence of Ml-a12
+617	Gene	+ = presence of Ml-a14
+618	Gene	+ = presence of Ml-a6
+619	Gene	+ = presence of Ml-a7
+620	Gene	+ = presence of Ml-a8
+622	Gene	+ = presence of Ml-a9
+623	Gene	+ = presence of Ml-g
+624	Gene	+ = presence of Ml-h
+625	Gene	+ = presence of Ml-k
+626	Gene	+ = presence of Ml-v
+628	Gene	+ = presence of Ml-a13
+629	Gene	+ = presence of Ml-a3
+633	Perc	100 Seeds germinated in a petridish with GA3 solution of 1000 ppm at room temperature.
+634	Perc	50 Seeds incubated in 1000 ppm GA3 for at least 24 h., and subsequentely sown in a greenhouse at 15-20°C and 16 h. light. Count healthy seedlings.
+636	Stand	(3= small, 5= medium, 7=large)
+638	State	Color at seed ripe stage (1=white,2=yellow,3=green,4=orange,5=brown,6=white+green,7=yellow+green,8=2+4,9=4+5)
+640	Perc	Standardized ISTA method, using 200 seeds.
+641	Perc	Standardized ISTA method, using 100 seeds.
+643	Stand	Score top 15 cm. (0=absent, 1=very weak, .., 5= medium, .., 9= very strong)
+644	Stand	Score at middle of the plant (1=very weak, ..., 9= very strong)
+646	Stand	Measure base of calyx to stem (1=<5mm, 3=10mm, 5=25mm, 7= 50mm, 9=>75mm)
+648	cm	Measure broadest part at commercial ripeness
+650	Stand	(1=none, 3=slightly curved, 5=curved, 7=snake shape, 8=sickle shape, 9= U-shape)
+652	Stand	Dtermine position widest part (3= 1/4 way from base to tip, 5= 1/2 way, 7= 3/4 way from base to tip)
+653	Stand	(3=protruded, 5= rounded, 7= depressed)
+655	State	Determine secondary color (1=green,2=milkywhite,3=deepyell,4=firered, 5=scarletred,6=lilacgray,7=purple,8=pu-bl,9=black)
+657	Stand	(3 smooth, 5= medium, 7= rough)
+659	Stand	Determine at broadest part (1=very loose (spongy), 3=loose (crumbly), 5=average, 7=dense, 9=very dense)
+662	Stand	Score at middle of plant (1= flat, 5= medium, 9= very convex)
+663	Stand	(1=greenish white, 3=white, 5= pale violet, 7= violet, 9=blueish violet)
+665	State	Score at commercial ripeness (1=white, 3=green)
+666	Perc	Standardized ISTA method, using 50 seeds.
+675	Perc	Perc. sporulating surface of leaf discs inoculated with pathotype 1.2.3.4.7.8.10.11 scored day 6 (method Hodgson 1961)
+671	Perc	Mix of pathotypes 1.2.3.7, 1.3.4.7.10 & 1.4.10.11. Weighted mean of 5 weekly observ. on perc. infected foliage. (1984)
+673	Perc	Pathotype 1.2.3.4.5.7.10.11. Weighted mean of 5 weekly observ. on perc. infected foliage. (1986-87)
+667	Perc	Blackleg. Perc. plants with symptoms after tuber inoc. with Erwinia susp. of 5 x 10^8 bact/ml. (method Munzert 1975).
+677	State	Pathotype 1 (Dahlem D1) using Glynne-Lemmerzahl method (Hille 1965). (2=susc, 4=resist.)
+679	State	Pathotype 6 (Olpe O1) using Glynne-Lemmerzahl method (Hille 1965). (2=susc, 4=resist.)
+681	State	Mycel & pyknospores mix of 3 isolates put on 10 wounded tubers. Store 6 weeks (Langton'71). (2=susc. 4=resist)
+684	Ratio	Rhizoctonia solani isolate 3: (number of resistant/inoculated clones)
+685	State	Tubers screened with Streptomyces scabies by Wiersema (method Wiersema, 1970) (2=susc, 4=resist.)
+687	ppm	Used method for Vit.C determination unknown.
+688	State	1 genotype/accession. From rel. shoot length at 2 salt conc. (2=susc, 4=tolerant)
+689	Perc	Perc. of the seedlings showing virus symptoms 4 weeks after inoculation.
+690	Num	Flow cytometry to determine the DNA content in whole cells, which is compared with standards. (2n=24/48/60/72)
+691	Num	mg reducing sugars (=glucose + fructose) /100g. fresh tuber weight, after 6 weeks storage at 4°C.
+692	Perc	Tuber dry matter content determined after artificial drying.
+693	Perc	Starch content of fresh tubers calculated from the under water weight.
+694	State	Ro1 (Ecosse pop.) inoc.3 cysts. Analysis with Kort's elutriator, females extracted by centrifugation. (2=susc, 4=resist)
+696	State	Ro1 rootball test. (2=susc, 4=resistant)
+695	State	Pa2/3 (Chavornay pop.) inoc.3 cysts. Analysis with Kort's elutriator, females extrac. by centrifugation (2=susc,4=res.)
+697	State	Ro2 rootball test. (2=susc, 4=resistant)
+703	State	Pa2 rootball test. 57/187 pop. (2=susc, 4=resistant)
+698	State	Ro3 rootball test. (2=susc, 4=resistant)
+699	State	Ro5 rootball test. Harmerz pop. (2=susc, 4=resistant)
+700	State	Pa1 rootball test. (2=susc, 4=resistant)
+704	State	Pa2 rootball test. Winsen pop. (2=susc, 4=resistant)
+708	State	Pa3 rootball test. Frenswegen pop. (2=susc, 4=resistant)
+710	State	Pa3 rootball test. Rookmaker pop. (2=susc, 4=resistant)
+701	State	Pa2 rootball test. (2=susc, 4=resistant)
+702	State	Pa3 rootball test. (2=susc, 4=resistant)
+706	State	Pa2 rootball test. Coll 54 pop. (2=susc, 4=resistant)
+713	Ratio	Ro5 number of resistant/inoculated genotypes
+715	Ratio	Pa3 number of resistant/inoculated genotypes
+719	Ratio	Ro1,2,3,4,5 mixture. (number of resistant/inoculated genotypes)
+720	Ratio	Rhizoctonia solani isolate 8: (number of resistant/inoculated clones)
+722	Perc	Percentage amylose in the starch. Method Ruehl 1989, a modified iodine-blue-complex method.
+723	g	Mean tuber yield per plant grown in the greenhouse.
+724	State	(1=yellow, 2=red, 3= blue)
+728	State	Browning of comm.ripe fruits, 5 min. after cutting(0=no browning,3=light, 5=intermediate, 7=dark, 9=very dark browning)
+863	State	Resistance to B. lactucae race Bl 23 (EU-A 63/31/02/01), scale: 1= resistant - 9= susceptible, C= conflicting data
+864	State	Resistance to B. lactucae race Bl 24 (EU-A 59/31/10/01), scale: 1= resistant - 9= susceptible, C= conflicting data
+866	State	Resistance to B. lactucae isolate S1 (EU-A 61/59/01/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+868	State	Resistance to B. lactucae isolate CS9 (EU-A 63/63/01/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+870	State	Resistance to B. lactucae isolate TV (EU-A 63/59/03/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+872	State	0=fully resistant, 1= highly tolerant, 2=moderately tolerant, 3=slightly tolerant, 4=susceptible
+874	State	when on 50% of the plants the first fruit has begun to ripen 1= <25 cm, 2= 25-45 cm, 3= 46-65 cm, 4= 66-85 cm, 5= >85 cm
+876	State	1=White,2=Lightyellow,3=Yel,4=Yel-green,5=Purple with wh. base,6=Wh.with Pur. base,7=Wh.with Pur.margin, 8=Pur.,99=Other
+878	State	1=White,2=Lemon-yellow,3=Pale orange-Yel,4=Or.Yel,5=Pale Or.6=Or.7=L.red,8=Red,9=D.red,10=Purple,11=Brown,12=Black99=Oth
+880	State	1=Smooth, 2=Semi-wrinkled, 3=Wrinkled
+881	Perc	Standardized ISTA method, using 300 seeds.
+882	Num	number of days after sowing until first flower head
+884	State	1 Milk white, 2 Yellowish, 3 Green, 4 Reddish, 5 Lilac grey, 6 Purple, 7 Purple black, 8 Black, 99 Other
+887	State	1=very small, 2=small, 3=intermediate, 4=large, 5=very large
+888	State	1=narrow obovate, 3=obovate, 5=broad obovate
+890	Stand	natural infection. 1=no symptoms, 9=severe symptoms
+893	State	1=one colored, 2=bi-colored
+894	State	1=white, 2=pink, 3=red, 4=purple, 5=yellow-orange, 6=green
+895	State	R=resistant, S=susceptible, %=segregating
+896	State	S=susceptible, (S)= almost susceptible
+897	Stand	field resistance  0=resistant to 10=susceptible
+899	State	1 = resistant, 2 = partial resistant, 3 = susceptible
+902	State	f. sp. Lycopersici, race 1 (R = resistant, IR = intermediately resistant, S = susceptible)
+904	Perc	Percentage plants with symptoms
+905	State	mean root rot index (RRI). 0=resistant, 5=susceptible
+907	State	At harvest maturity 0=absent, 1=very weak, 3=weak, 5= medium, 7=strong, 9=very strong
+908	State	(1=prostrate, .., 5=erect)
+910	Stand	1=very small,..,9=very large
+346	State	(1=white, 2=yellow, 3=light brown, 4=brown, 5=dark brown, 6=red, 7=green (chartreuze), 8=mixed population, 9=other)
+349	State	(1=yellow, 2=green)
+350	State	(1=vegetative, 2=seed, 3=both)
+351	State	(1=round, 2=ovate, 3=obovate, 4=oval, 5=triangular, 6=arrowy, 7=spatulate, 8=linear)R
+353	Days	Days from planting to 50% of plants start bolting i.e. growth meristeme visible or stem length > 10cm., 999= >100 days.
+361	ppm	ppm. NO3 of dried plants by measurement of extinction with phospectrometer.
+364	Stand	Measure at 2/3 from the base of the stem. (3=small, 5=intermediate, 7=large, 9=very large)
+367	State	(1=pyramidal, 2=cylindric)
+323	Stand	Field observation after flowering (1=no tillering, 9=all plants have tillered)
+325	State	(1=entire, 2=not entire)
+326	State	(1=light green, 2=medium green,3=dark green, 4=grey green, 5=blue green, 6=violet green)
+329	State	Covering by inner leafes (1=not covered, 2=partly covered, 3=covered)
+331	State	(1=white, 2=ivory, 3=yellow, 4=orange, 5=green, 6=pink, 7=purple)
+335	State	(1=white, 2=ivory, 3=yellow)
+337	State	(3=light green, 5=medium, 7=dark green)
+338	Stand	Measure from the stem base to the outer lamina. (1=-144mm, 2=-184, 3=-224, 4=-264, 5=-304, 6=-344, 7=-384, 8=-424, 9=>)
+340	State	(1=bulb, 2=agggregated bulbs, 3=rhizomes, 4=cloves, 5=foliage leaf bases, 6=bulb enclosed in communal skin, 7=other)
+302	Num	Count days after sowing till 90% of healthy plants have yellow back of the head and brown bracteoles
+305	g	Weigh 1000 seeds with a moisture content between 5.3 and 7.2%
+307	cm	Average of 10 adjacent plants in the centre of a field
+319	State	Score after ripening (1=ripe seeds turns loose of the receptacle, 9=seeds holds to the receptacle)
+310	Num	Count the number of days between sowing and emergence of a few plants
+313	Num	Count the days between 5% of the plants start flowering and 95% of the plants stop flowering
+315	Stand	Multiply length and width, average of 10 flowers (1=<100, 3=100-120, 5=120-140, 7=140-160, 9=>160)
+321	Num	In pots with specific soil. Count days to corolla 1st flower visible (1=<41, 2=41-60, 3=61-80, .., 8=161-180, 9=>180)
+283	State	Percentage of leaf infected, inoculated with an isolate of Felix (0=0%,1=0-1%,..,8=-80%,9=-100%)R
+297	Num	Gibberellin. Count days from planting to 50% of plants harvestable (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+288	Stand	Vegetative development about 1 month after emergence (3=much development, 7=little development)
+292	Num	No treatment. Count days from planting to corolla 1st flower visible (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+294	Num	Gibberellin. Count days from planting to corolla 1st flower visible (1=<41. 2=41-60. 3=61-80. ... 8=161-180. 9=>180)
+267	State	Outer leaves (1=white,2=light green,3=light violet)
+268	State	Longitudinal section.(1=transverse narrow elliptic, 2, 3=circul, 4=broad el, 5=obovate, 6=broad ovate, 7=angular ovate)R
+273	Stand	Observe infection of the spike (1=no infection in spike, 2=little infection, 9=whole spike infected)
+286	kg	Yield of one evaluation plot (20 plants)
+277	Perc	Calculated as sugar content minus glucose content
+278	Num	Calculated as the quotient fructose content and glucose content
+280	State	Score the infection type using the scale described by XSVPX  R
+282	State	Inoculated with an isolate of Clement, score the infection type using the scale described by XSVPX R
+243	Stand	Score followed by the year of observation between brackets (0=no infection, .., 9=totaly infected)
+247	State	(1= yellowish green, 2=light green, 3=medium green, 4=grey green, 5=dark green, 6=blue green, 7=brown red)
+249	Stand	At harvest maturity (1= no overlap, 5= half overlap, leaves touch on top, 9= complete overlap)
+251	Num	Count the days from sowing to the moment that 50% of the plants start bolting, > = not bolting during experiment
+264	State	At harvest maturity. (1=broad elliptic,2=broad ovate,3=circular,4=transverse broad elliptic)R
+257	Stand	At harvest maturity, related to standards
+258	Perc	Extraction and gaschromatological determination of fatty acid composition of seed oils
+261	State	(1=yellow green, 2=light green, 3=medium green, 4=dark green, 5=blue green, 6=violet green)
+231	Num	Count on main stem, average of 5 plants (V=variable)
+221	State	(1=dominant main stem with some branching at top, 9=no dom. main stem and a lot of branching at top)
+224	State	(1=end of flowering, 2=full flowering, 3=begin floweri, 4=spikes 100% visable, 5=75%, 6=50%, 7=25%, 8=first awns, 9=..)R
+229	g	Calculate from the weights of three samples of 100 seeds
+242	kg/m2	Yield of evaluation plot divided by area in square meters
+234	Num	Count the days from 31/7 to 70% of pods on main stem are black (V=variable)
+236	g	Calculate from the weight of 100 seeds of an air dried bulk sample (V=variable)
+238	State	At full ripening time (1=erect, 3= semi erect, 5=horizontal, 7=semi pendant, 9=pendant)
+240	Stand	(1=none, 3=some, 5=medium, 7=severe, 9=(almost) total lodging, V=variable)
+197	cm	Average largest and smallest diameter measured over the seeds, 5 to 10 plants
+199	State	Seedset of hulled flowers (1=bad,5=average,9=good)
+201	State	(x[-y][/SP]=color x [with stripes of color y][and specks],color:BK=black,WH=white,GY=grey,BR=brown)
+204	Perc	Extraction and determination of oilcontent of seeds (RIKILT RAPP.87-17)
+206	Num	Days after 1/5 when 50 % of plants are heading
+208	State	Colour fresh flowers (1=white,2=cream,3=yellow,4=orange,5=pink,6=lilac,7=red,9=dark red)
+210	Num	Days after 15/7 when at least 70 % of plants show brown colouration at bottom 5 pods
+212	Num	Number of flowering side branches of main branch during ripening
+180	Perc	Total number of bolters relative to total number of plants
+184	State	Score the growth stage on the scale given by Zadoks et al (1974) when most plants are around 40. R
+198	Num	Quotient of the head diameter and the receptacle thickness, measured  where it is not hollow
+189	State	Estimate the infection of the head at harvest (1=not infected, .., 9=heavily infected)
+191	Stand	Judge the head and receptacle on appearance (1=very bad, 9=very good)
+194	State	(1=no infected plants, 5=1 infected plant, 9=>1 infected plant in 20)
+152	cm	Measure a few plants from the ground to the node bearing the flag leaf, after flowering
+155	Num	Count the days from 28/4 to the moment of pollen release ('-'=already flowering on 28/4)
+158	mm	Measure just before pollen release.(0=filaments are shrunk, -=filaments are connated)
+159	State	(AnB:A=main color,nB=part of filam., P=purple,W=white,Y=yellow,B=black,1=edge,2=blush,3=top,4=basis)
+163	cm	Average of bractwidths (largest extention), sample size is 4, measured at last ramification.
+176	Perc	Content in an average mash sample, using less than 11 plants
+167	mm	Measured at 1st internode above 1st flower when 1st pod is half grown or later
+169	Num	Count the days from 1/6 when only 10% of plants still flower
+171	State	Distribution on flowering stem. (0=absent, 1=some present, 5=inflorescense halveway, 9=up to the top)
+130	cm	Measure leafs and seed stalks covering the ground
+143	Stand	Degree of root lodging (1=none, 3=very few stalks lodging, 5=about half, 7=many lodged, 9=most lodged)
+135	Stand	Degree of fibrousness. (3=tender, .., 7=hard)
+137	State	(1=white,2=yellow,3=orange,4=red,5=purple)
+139	State	Number of seeds per seedball (1=monogerm,3=mono and bigerm, 5=multigerm (2-4), 7=multigerm (>5))
+142	Num	Count the days from sowing to emergence of first silk in 50% of plants
+144	mm	Measure from the point of attachment on the ear penduncle to the tip of the de-husked ear
+146	Num	Count and estimate the average number using a few ears
+148	Perc	Percentage of tillering plants after flowering
+150	State	(1=transparant,9=not transparant)
+109	State	At fruit maturity(1=very thin easily splitting longitudinally to expose grain,2=not thin not split.)
+113	State	(1=cream-white, 3=yellowish-light amber, 5=dark amber-reddish, 7=brownish red-red, 9=darker red-purple)
+116	Stand	Lateral ridges of internodes(1=none, .., 5=cilia in a thin row along ridges, 7=a thicker or >1 row, ..)R
+118	Stand	(1=no dead plants, 3=less than 25% dead plants, 5=25-50% dead, 7=50-75%, 9=more than 75% dead plants)
+120	State	(1=tapering, 5=parallel, 9=fusiform)R
+123	State	(1=yellow/white, 3=green, 5=red/purple, 7=brown, 9=blue/black, 0=other)
+125	State	Just opened flowers. (0=no blotch, Y=yellow, W=white, O=orange, G=green, R=red, B=black, see reference !)R
+101	mm	Measure largest width of just opened flowers, between brackets the width of lower part of the flower
+103	State	Score twisting, late in the season. (-=deformed anthers and stigma, 1=no twisting, .., 9=very much)
+105	Num	Count the days from 30/4 to the moment of pollen release
+107	Stand	At culm section 3-5 cm. below spike.(3=pith thin,lumen about 3/4 of diameter, 7=pith thick,lumen 1/4)
+70	Num	Count the days from sowing to 50% of spikes mature and (depending on the species) disarticulating
+72	State	Post anthesis to maturity (1=no, 2=2 or more teeth, 3=upper spikelet only, 4=upper part spike, 5=all)R
+74	Num	Quotient of the length of the glumes and the entire spikelet excluding awns
+75	State	(length/width: 1=1, short, blunt, 3=1.5, short, 5=2, medium, 7=2.5, long, 9=>3, very long, pointed)
+78	State	Uppermost of mature spikes.(1=few sterile, 3=one sterile, 5=sometimes fertile, 7=mostly fertile, 9=always fertile)R
+82	Stand	Score uppermost node, at post anthesis to early maturation
+83	State	Relative to spike (1=absent/scurs-very short awns, 3=awns<spike, 5=awns~spike, 7=awns>spike, 9=awns>2*spike)
+87	State	(0=no pollen, G=yellow, P=purple, the letter is followed by a cipher indicating the exact color)R
+50	State	(1=very uniform, .. ,9=all but uniform)
+51	State	(1=white, 2=light yellow, 3=yellow, 4=light blue, 5=blue, 6=light red, 7=red, 8=dark red, 9=purple)
+54	State	Observe during harvest (1=very close nests, .., 9=very wide)
+66	Num	Excluding rudimentary spikelets, count from the lowermost fertile spikelet upwards, average of 10
+60	Num	Count the days from sowing to 50% of plants in flower
+61	mm	Measure at widest point, average of 10 plants, at post anthesis to early maturation
+64	State	Count basal ones at post anthesis to early maturation prior to disarticulation.(1=0, 3=1, 5=1-2, 7=2-3, 9=3-4)R
+67	State	Relative to adjacent rachis internode, lower 1/3 of spike.(spkl/intn: 1=<.5, 3=.5-1, 5=1, 7=1-1.5, 9=>1.5)
+69	State	(1=long, cylindrical, 2=long, linear, flat, 2 rows, 3=long lanceolate, 4=lanceolate-long ovate, 5=ovate)
+28	Stand	(3=small, 5=intermediate, 7=large, 9=very large)
+29	Stand	(1=awnless. 3=scurs on tip only. 5=awns on tip only. 7=upper 1/2 - 3/4 awned/scurred. 9=awned)
+44	State	Estimate the percentage of flowering plants at 1/10 (1=100%, 3=75%, 5=50%, 7=25%, 9=0%)
+36	Num	Count the branches of the main stem longer then 5 cm., average of 3 plants
+38	State	According to Kueppers-Sonnenberg, Pflanzenbau und Planzenschutz 6 (1955):115-124 R
+40	mm	Diameter main stem at 6th internode, date: 1/8, average 3 plants
+42	Num	Count the days from 1/7 when 50% of the tubers are about 2 cm. thick
+55	Num	Count the days from sowing to emergence of first spike in 50% of plants
+47	Num	Count the days from 1/9 when 70% of the leafarea is yellow
+49	State	(1=long-oval, 2=clavate, 3=round, 4=fusiform, 5=long,roots, 6=root shape, 7=gristly, 8=very gristly, 9=worm)R
+2	State	Old seeds (1=round and smooth, 9=not round and smooth)
+964	State	At seedling stage; 0=Immune, 1-3=Resistant; 4-6= Intermediate; 7-9=Susceptible. According to McNeal et al (1971)
+1005	State	0=Immune; 1=highly resistant; 3=resistant; 5=medium susceptible; 7=susceptible; 9=highly susceptible
+1015	Num	Resistance to B. lactucae race Bl:26, number of plants showing sporulation with the total number of plants between brackets
+1016	Num	Resistance to B. lactucae race Bl:27, number of plants showing sporulation with the total number of plants between brackets
+1017	Num	Resistance to B. lactucae race Bl:28, number of plants showing sporulation with the total number of plants between brackets
+1018	Stand.	Foliage inoculated with P. infestans pathotype  IPO 655-2a. (1=susc.,9=rest.)
+1019	Stand.	Foliage inoculated with P. infestans pathotype  IPO-complex. (1=susc.,9=rest.)
+1020	Stand.	Foliage inoculated with P. infestans, pathotype unknown. (1=susc.,9=rest.)
+1021	Stand.	After 3 months storage at 4 degrees C., tuber slices fried and scored using a color chart. (1=low, 9=high crisp suitability)
+1022	Stand.	After 6 weeks storage at 3.8 degrees C. and 2 weeks acclimatization at about 17 degrees, tuber slices fried according protocol A (about 3 min. at 180 degrees until bubbling stops). (1=low, 9=high crisp suitability)
+1023	Stand.	Synchytrium endobioticum, pathotype 6. (1=susc, 9=resist.)
+1024	State	1 = red, 2 = orange, 3 = cream-white, 4 = yellow (Golden Delicious), 5 = green-yellow (Cox Orange Pippin), 6 = green (Granny Smith)
+1025	State	1 = red, 2 = red-purple, 3 = purple, 4 = brown, 5 = orange, 0 = none
+1026	State	Eufrin, 2011, 1.1=ellipsoid, 1.2=ellipsioid-conical, 1.3=long-conical, 2.1=oblong, 2.2=oblong-conical, 2.3=conical, 3.1=globose, 3.2=globose-conical, 4.1=flat-globose, 4.2=intermediate-conical, 5.1=flat, 5.2=short-globose-conical, 6=oblong-waisted
+1027	State	Eufrin 2011, 1=<45mm, 2=45-50mm, 3=50-55mm, 4=55-60mm, 5=60-65mm, 6=65-70mm, 7=70-75mm, 8=75-80mm, 9=80-85mm, 10=85-90mm, 11=90-95mm, 12=95-100mm, 13=100-105mm
+1028	Perc	Measured with refractometer Atago ATC Brix 0-32%
+1029	State	Estimating the fruitload on the tree and on the ground by observing the ratio apple:green leaves, one tree is used as reference to access the yield in kg. 0=0 kg/tree, 1=1-5, 2= 5-10, 3=10-15, 4=15-20, 5=20-25 kg/tree
+1030	State	Percentage of fruits on the ground out of the fruits on the ground+tree. 1=5%,2=10%, 3=20%, 4=30%, 5=40%, 6=50%, 7=60%, 8=70%, 9=80%, 10=90-100%
+1031	State	By tasting: 1=sourness/sweetness same level, 2=slightly sweeter than sour, 3= stronger sweet than sour, 4= much stronger sweet than sour, 5=slightly stonger sour than sweet, 6=stronger sour than sweet, 7 much more sour than sweet
+1032	Stand	By tasting: 1=very soft, 2=soft, 3=slightly soft, 4=preferably for eating (soft), 5 between 4 and 6, 6=preferably for eating (hard), 7=slightly hard, 8=hard, 9=very hard
+1033	Stand	Eufrin, 2011, 1 = extremely poor, 3 = poor, 5 = intermediate, 7 = good, 9 = exelent
+1034	State	In september indicating earlyness, 1=extremely hard for eating-strong astringency taste, 2=hard-astringent, 3=slightly hard, 4=good ripeness-slightly hard, 5=good ripeness, 6=slightly soft, 7=parts are soft, 8=large part rotten, 9=entirely rotten
+1035	Stand	1 = thin, 5 = medium, 9 = very thick
+1036	State	0=no symptoms,1=0-5% leaves with secondary infection,2=5-25% sec inf on leaves, 3=as 2 with few primary infections, 4, 5=widespread sec inf-few twigs or flowers with prim inf, 6, 7=half of the shoots with prim inf, 8, 9=almost all twigs have prim inf
+1037	State	0=no visible symptoms,1=few small spots,3=immediately apparent-lesions very thinly scattered,5=infection widespread-most leaves with one lesion,7=heavy infection-multiple lesions or more large spots on most leaves,9=max infection-leaves black
+1038	Num	Number of symptoms on three trees e.g. 0-1-2 = first tree no symptoms, second tree one symptom and third tree 2 symptoms, x = missing tree
+1039	State	1= 0-30 degrees (standing up)-flexibility low,2=0-30 deg-flex high 3=30-60 deg-flex low, 4==30-60 deg-flex high, 5=60 deg-flex medium, 6=60-90 deg-flex low,7= =60-90 deg-flex high, 8=90-120 deg-flex low, 9=90-120 deg-flex high (hanging down)
+1040	State	1=very poor architecture, 2=poor, 3=slightly poor, 4=between 3 and 5, 5=slightly good, 6 between 5 and 6, 7=good, 8=very good, 9=exelent
+1041	State	1 = 20-25mm, 2 = 25-30mm, 3 = 30-35mm, 4 = 35-40mm, 5 = 40-45mm, 6 = 45-50mm, 7 = 50-55mm
+1042	Stand	1 = extremely weak, 3 = weak, 5 = intermediate, 7 = vigorous, 9 = extremely vigorous
+1043	Stand	1 = no shoots, 3 = low amount, 5 = moderate amount, 7 = high amount, 9 = extremely high
+1044	Stand	1 = completely bold, 3 = small amount of buds and spurs, 5 = moderate amount of spurs and buds, 7 = high density of spurs and buds, 9 = extremely high density of spurs and buds
+1045	State	1 = <10cm, 2 = 10-15cm, 3 = 15-20cm, 4 = 20-25cm, 5 = 25-30cm, 6 = 30-35cm, 7 = 35-40cm, 8 = >40cm
+1046	State	1=erect, 3=semi erect, 5=horizontal
+1047	State	1=truncate, 2 =rounded, 3=obtuse
+1048	State	1=white, 2=yellowish white, 3=yellow, 4=brown, 5=light green, 6=medium green,7= dark green, 8=pink, 9=dark pink red, 10=red, 11=purple, 12=violet, 13=black
+1049	State	1=absent; 2=present in a few plants; 3=present in majority of plants; 4=presence very obvious
+1050	Num	Count days after 1 September when >50% plants show inflorescence emergence, 999=not flowering during experiment
+1051	State	1 Conical,   2 Cylindrical,  3 Obconical
+1052	State	3 Short, 5 Medium, 7 Long
+1053	State	1 Flat, 2 Rounded, 3 Obconical
+1054	State	1 Blunt, 2 Slightly pointed, 3 Strongly pointed
+1055	State	1 Light brown, 2 Dark brown, 3 Black
+1056	Perc	Standaard ISTA method, using 200 seeds (without pretreatment 3 days 5 C, TPL 20°C). Scored by using 3rd ed. ISTA Handb. On Seedl. Eval. with amendment of 2009
+1057	Perc	Unheated greenhouse test in summer, using 150 seeds, pretreatment 24 hours soaking with 700 ppm GA3 in the dark, counting healthy seedlings
+1058	Perc	Standaard ISTA method, using 200 seeds, pretreatment 48 hours soaking with 700 ppm Ga3 in dark TPL 20°C
+1059	Perc	Standard ISTA method, using 150 seeds, counting not germinating seeds with a hard seedcoat as dormant seeds, TP 20°C
+1060	Perc	Standard ISTA method, using 200 seeds, SL 20°C
+1061	State	Resistance to Nasonovia ribisnigri (pathotype Nr:0), in general 2 separate scores per acc, using the mean score when scores not too conflicting: scale: 1= resistant - 9= susceptible, C= conflicting data
+1062	Num	Average whitefly survival (adults alive/day, max score = 1)  using equation of Maliepaard et al (1995) , during 11 days after infestation.
+1063	Num	Trichomes/mm2
+1064	Num	Average of whitefly density (adults/cm-2) on day 9, 23 and 37 after infestation
+1065	State	1 = indoor, 2 = outdoor, 3 = indoor and outdoor
+1066	State	1 = white, 2 = yellow, 3 = black
+1067	State	1 = erect, 3 = semi-erect, 5 = prostrate
+1068	State	1 = entire, 2 = lobed, 3 = divided
+1069	Stand	1 = very sparse, 3 = sparse, 5 = medium, 7 = dense, 9 = very dense
+24	State	Percentage of leaf infected (0=0%, 1=0-1%, 2=1-5%, 3=5-10%, 4=10-20%, 5=20-30%, 6=30-40%, 7=40-60%, 8=60-80%, 9=>80%)R
+376	mg/ml	Mixt. sand+infested soil (9:1), 22/17 oC, 5 weeks. 100 mg roots cruched in PBStween buffer (1:20). Elisa readings conv.
+378	Count	Seedlings in tubes with silversand and Steiner solution. Inoculated with 300 nematodes. Count cysts after 4 weeks.
+381	State	Longit. sect. (1=narrow elliptic,2=ell.,3=circular,4=broad el,5=narrow oblong,6=na.obtriangular,7=non-swollen,8=fibrous)
+384	Count	Count days to 10% of flowers have opened after emergence (annual forms) or after first indication seedstalk (biennual).
+386	State	Scored 31/5. (1=rosette stadium, 2=starting to bolt, 3=bolting, 4=fully bolting (<10% flowering), 5=flowering plants)
+390	kg	Measure total fresh matter yield (leaves, stem and root) per plant in vegetative stage. 10-30 plants per accession.
+392	State	(1=narrow elliptic,2=el.,3=broad el.,4=circular,5=transverse broad el.,6=transv.el.,7=obovate,8=broad obtrul,9=triang.)R
+396	State	(1=flat, 3=slightly raised, 5=round, 7=slightly pointed, 9=strongly pointed)
+398	State	(1=white, 2=cream, 3=yellow to brown, 4=red, 5=violet, 6=green)
+401	Stand	Count the days after sowing when 75% of the foliage has fallen over. (1=very early <119 days, .., 9=very late >216 days) > = not fallen over during experiment
+405	Stand	Score red color of seedlings after cold treatment (1=little, 5=moderate, 9=much)
+408	Num	Elisa means, test according to Buercky and Buettner 1985.
+410	Stand	Score at 7th leaf stage. (3=weak, 5=medium, 7=strong)
+412	State	Score at 7th leaf stage. (1=elliptic, 2=broad elliptic, 3=circular, 4=ovate, 5=broad ovate, 6=triangular)
+415	State	(1=no monoecious plants, 3=25%, 5=50%, 7=75%, 9=only monoecious plants)
+417	State	(1=none, 3=25%, 5=50%, 7=75%, 9=all)
+418	Num	Count days from sowing till 10% of plants have stem of 5 cm.
+421	Perc	Race 2, percentage of resistant plants.
+423	State	(1=white, 2=yellow green, 3=green, 4=red)
+424	mm	Measured on longest leaf from axil to tip, at harvest maturity, average of 10 plants.
+427	State	Score at harvest maturity (1=light green, 2=dark green, 3= blue green, 4=red green)
+429	State	Score at harvest maturity the longitudinal section (1=flat round, 2=round, 3=deep round, 4=elongated, 5=obovate)R
+432	State	(1=very resistant, 2=resistant, 3=partial resistant, 4=susceptible, 5=very susceptible)R
+434	State	Isolate 116 (1=little and small galls at hairy roots, .., 9=strong galls at taproot)R
+436	Stand	Degree of bolting in year of sowing (1=0-10%, 5=ca.50%, 9=90-100%)
+439	cm	Measured plant height at state 9 (IBPGR descriptors 1991).
+441	Count	Count days to 10% of flowers have opened after sowing.
+443	State	Tested against race 4 (1=resistant, 2=susceptible)
+452	State	Resistance to B. lactucae race NL11 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+454	State	Resistance to B. lactucae race NL13 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+456	State	Resistance to B. lactucae race NL15 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+458	State	Resistance to B. lactucae race 26/81(0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+460	State	Resistance to B. lactucae race 1/82 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+462	State	Resistance to B. lactucae race 3/82 (0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+465	State	Resistance to B. lactucae race 12/81(0=complete resistant. 3=incompl.res.. 6=incomplete susceptible. 9=susceptible)
+467	State	(0=absent, 1=very weak, 3=weak, 5=medium, 7=strong, 9=very strong)
+470	State	(A=yellow, B=red, C=brown, D=orange, E=purple, F=greyish, G=green)
+472	State	(1=none, 3=slight, 5=medium, 7=medium to severe, 9=severe)
+474	State	(0=no resistance (Cf) gene, 1=Cf1, 2=Cf2, ..., 2+4=Cf2 and Cf4)
+476	State	At harvest maturity (A=purple, B=green, C=white, 1=very light purple, ..., 9=very dark purple)
+480	State	(1=fairly high level of resistance, 2=medium to low level of resistance)
+482	Num	Number of 9 inoculated plants without symptoms
+484	State	(3,4,5 = 3,2,1 weeks before Bruinsma Wonder (=6), 7,8,9 = 1,3,5 weeks after Bruinsma Wonder)
+486	Stand	determined at natural infection (0=no symptoms, +=symptoms present)
+487	State	Symbol assigned to TMV resistance at locus L. (L+=no resistance gene, L1 resistance gene L1, ....)
+490	Stand	Determined at natural infection (0=no symptoms, +=symptoms present)
+495	Stand	(1=mosaic, 2=segregation in mosaic and in necrotic hypersensitive reactions)
+497	Stand	Sonatine=3 (1=very light, 3=light, 5=medium, 7=good, 9=very good)
+499	Stand	(1=very drooping, 3=drooping, 5=horizontal, 7=semi erect, 9=erect)
+502	State	Sonatine=5 (1=very flat, ..., 9=very long)
+503	State	(1=very round, 3=round, 5=angular, 7=irregular, 9=very irregular)
+505	State	(A=red, B=orange, C=pink, D=yellow, E=yellowgreen, F=red with yellow spots, G=light green, H=brown, I=white, P=purple)
+509	Stand	(0=no flowers set, 5=50% of flowers set, 9=all flowers set)
+513	mm	Measurement, 9=9mm or more.
+514	State	(2,3,4,5=4,3,2,1 weeks before Sonatine, 6=Sonatine, 7,8,9=1,2,3 weeks after Sonatine)
+517	Stand	Bruinsma Wonder=7 (1=very light, 3=light, 5=medium, 7=dark, 9=very dark)
+518	Stand	Bruinsma Wonder=7 (1=very drooping, 3=drooping, 5=horizontal, 7=semi-erect, 9=erect)
+521	State	(A=white, B=filthy-white, C=light green, D=light purple, E=dark purple, F=yellow, G=white/anthocyanin)
+535	Stand	Bruinsma Wonder=3 (0=absent, 1=very little, 3=little, 5=medium, 7=much, 9=very much)
+539	Num	(1,2,3,4=4,3,2,1 weeks before Claresse(=5) 6,7,8,9=1,2,3 or 4 weeks after)
+542	State	(A=plain, B=striped, C=marbled, D=two coloured)
+543	State	(A=yellow, B=red, C=brown, D=orange, E=purple, F=greyish, G=green, a-b=both colors appear in one fruit)
+546	State	(+=present, 0=absent, 1-9=intensity of green edge: 1=very light, 9=very dark)
+549	Stand	Mean attack with pathotype EDC 17/31/31. (1= no or small galls at hairy roots, ..., 9 =large galls at taproot)
+552	Stand	Score plant above soil level.
+553	Stand	Score total plant, including the part under the soil.
+556	State	(3=flat, 5=medium, 7=concave)
+557	Ratio	(1=completely erect, ..., 9=completely reflexed)
+559	State	(1=homogeneous, 2=variable, 3=highly variable)
+560	State	(1=white, 2=yellow, 3=light brown, 4=brown, 5=dark brown, 6=red, 7=green, 8= 2+3, 9=light violet, 10= violet, 11=mixed)
+563	State	Flower wing just before opening (1= white, 2= yellow, 3= orange, 4= pink, 5= red, 6=green, 7= blue, 8= violet, 9= brown)
+566	State	(1= white, 2= light blue, 3= blue, 4= pink, 5= red violet, 6= violet, 9= mixed)
+568	State	(1= yellow, 3= light brown, 5= brown, 7= dark brown, 9= olive green)
+570	Stand	(3=low, 5=medium, 7=high)
+571	State	Moment of full maturity straw (1= very early, ..., 9= very late)
+573	Stand	Standards: Ariane= 1, Regina= 7 (1=without, 3=weak, 5=medium, 7=strong, 9=very strong)
+576	Perc	Percentage in straw, using a greenscutching method.
+578	State	Resistance to race 2. (S=susceptible, R=resistant)
+580	Perc	Fresh weight inoculated plant * 100 / Fresh weight uninoculated plant (>70=resistant).
+582	State	Crop development stage halfway heading (1=finished anthesis, 5= 75% ears visible, 9=no tops of ears visible)
+584	Stand	Inoculation with strain IPO39-01. Res.stand.=Arina, sus.st.=SVP72005-20-3-1 (1=very resistant, ..., 9= very susceptible)
+588	State	1= mainly male flowers, 5= equal number of male and female flowers, 9= almost only female flowers
+591	Stand	Score at market stage (3= thick, 5= medium, 7= thin)
+593	Stand	Score at market stage (1= absent, 3= weak, 5=medium, 7= strong)
+595	State	Score ground color at seed ripe stage (1= white, 2= yellow, 3= green, 4=orange, 5= brown, 99=other)
+597	State	Measure at young fruit stage (1= white, 2= black)
+599	Stand	Score at physiological ripening (1= absent, 5= medium, 9= very long)
+600	Stand	Scores in greenhouse 1= suscept.many large spots >3mm, 5= medium resist.small sp 1-3 mm, 9= resist.few small sp<1mm
+602	Stand	1= susceptible (> 75% of plants affected), 5= medium resistant (25-75% affected), 9= resistant (0-25% affected)
+605	State	0= no pustules, 1= few pustules, 2= few leaves with pustules, 3= all leaves with pustules
+627	Gene	+ = presence of Ml-(AB)
+630	Gene	+ = presence of Ml-o
+631	State	Fysio ECD 16/3/30. (0= no symptoms, ..., 1= severely affected)
+632	Stand	Scores in field 1= suscept.(many large spots >3mm), 5= medium resist.(small sp 1-3 mm), 9= resist.(few small sp<1mm)
+635	Perc	50 seeds sown in greenhouse, no treatment.
+637	State	Score color at market stage (1= white, 2= yellow, 3= green, 4= white and yellow, 5= white and green, 6= yellow + green)
+639	State	At moment of tillering (1= no overlap, 5= leaves touch, 9= complete overlap)
+642	Stand	To stem apex, middle of culture (1= very short (<20cm.), 3=short, 5=intermediate(100cm.), 7=tall, 9=very tall (>180cm.))
+645	Stand	Score lower surface (1=<20/mm2, 3=20-50, 5=50-100,7=100-200, 9=>200/mm2)
+647	cm	Measure base of calyx to tip of fruit at commercial ripeness
+649	State	Determine length/width ratio (L/W)  (1= L/W <1 , 3= 1, 5= >1 , 7= 2, 8=3, 9=>3)
+651	Stand	(1=circular, no grooves, 3=elliptic, no grooves, 5=few grooves, 7= many grooves, 9= very irregular)
+654	State	Determine principle color (1=green,2=milkywhite,3=deepyell,4=firered, 5=scarletred,6=lilacgray,7=purple,8=pu-bl,9=black)
+656	Stand	Score at commercial ripeness (3= dull, 5= medium, 7= shiny)
+658	Stand	(0= no color, 1= very weak, ...,9=very strong color intensity)
+660	Stand	Determine % of total fruit (1=10%, 3=20%, 5=50%, 7=70%, 9=>75%)
+661	Stand	Determine number of prickles (0=none, 1=<3 prickles, 3=5pr., 5=10pr., 7=20pr., 9= >30 prickles)
+664	State	Score at commercial ripeness (1=uniform, 3=mottled, 5=netted, 7=striped, 9=other)
+670	Perc	Mix of pathotypes 1.2.3, 1.3.4 & 1.4.11. Weighted mean of 5 weekly observ. on perc. infected foliage. (<1984)
+676	State	Inoculum 600 juveniles. After 7 weeks less then 6 egg masses on roots, then genotype scored resistant. (2=susc,4=resist)
+672	Perc	Mix of pathotypes 1.3.4.7.10 & complex fysio P1. Weighted mean of 2 observatons on infected foliage. (1985)
+674	Perc	Pathotype 1.2.3.4.5.6.7.10.11. Weighted mean of 5 weekly observ. on perc. infected foliage. (>1987)
+668	State	Softrot. Method Austin et al.1988. Strain Eca 86.20 from Brittany. Uninfected geno's retested. (2=susc,4=resist.)
+678	State	Pathotype 2 (Giessuebel G1) using Glynne-Lemmerzahl method (Hille 1965). (2=susc, 4=resist.)
+680	State	Pathotype 8 (Kohlhaus K2) using Glynne-Lemmerzahl method (Hille 1965). (2=susc, 4=resist.)
+683	State	Week 6: cut tubers through inoculation point, assess for active rotting (method Boyd '52) (2=susc, 4=resist.)
+682	State	Week 3: assess inoculated tuber halves for active rotting. Test in duplo or triplo. (2=susc, 4=resist.)
+686	State	Scions 10-20 plants grafted on PVM infected tomato plants. Week 6 uninfected plants retested. (2=susc, 4=resist)
+669	State	Leaves tested on resistance to late blight virulences 1,2,3,4 (method Toxopeus 1954). (2=susc,4=resist.)
+707	State	Pa3 rootball test. Chavornay pop. (2=susc, 4=resistant)
+718	State	Ro1,2,3,4,5 mixture. (MB-a, C-71 mix, F.520, G.1510 pops.) (2=susc, 4=resistant)
+709	State	Pa3 rootball test. Oslo pop. (2=susc, 4=resistant)
+711	State	Pa3 rootball test. MBB pop. (2=susc, 4=resistant)
+705	State	Pa2 rootball test. Kalle pop. (2=susc, 4=resistant)
+712	State	Pa3 rootball test. E-83 mixed pop. (2=susc, 4=resistant)
+714	Ratio	Pa2 number of resistant/inoculated genotypes
+717	Ratio	Pa2,3 mixture. (number of resistant/inoculated genotypes)
+716	State	Pa2,3 mixture. (P.2-22, Coll 1095, D.234, D.236, & Rookmaker, Coll 1077, Coll 1112, VP 75-884-4 pops.) (2=susc, 4=res)
+721	Perc	Starch content polarimetric determined on 12 plants. Method modified from Ewers 1908.
+725	State	(1=yellow, 2=white, 3= blue)
+726	Perc	Standardized ISTA method, using 150 seeds.
+727	State	Taste at comm. ripe stage(0=no bitterness, 1=very weak, 3=weak, 5=intermediate, 7=strong, 9=very strongly bitter)
+729	State	Browning of comm.ripe fruits, 30 min. after cutting(0=no browning,3=light, 5=intermediate, 7=dark, 9=very dark browning)
+735	State	(1=straight, 2=curved)
+737	State	(1=yellow, 2=white, 3=darkbrown, 4=black, 5=brown, 6=light green, 7=light brown)
+740	Num	average of five fresh pods
+742	State	(0=highly resistant,.., 5=highly susceptible) inoculated in the greenhouse
+744	State	(1=awnless, 3=scurs on tip only, 5=awns on tip only, 7=upper 1/2-3/4 awned/scurred, 9=awned)
+747	micg	total amount in shoot (average of 3 plants)
+749	micmol	µmol/100 g dry weight in seedlings
+751	Perc	isolate 7V: % of plants showing pathogen sporulation
+754	micmol	µmol/g dry matter
+756	State	(1=high erucic acid (EA)-high glucosinolate (GS), 2=low EA-high GS, 3=high EA-low GS, 4=low EA-low GS)
+759	State	leaf damage (1 = very low, 9 = very significant damage)
+762	State	1=no symptoms,.., 4=substantial swelling of the main root and large galls on all lateral roots
+764	Perc	isolate K92-16: 0%=completely resistant, 100%=completely susceptible
+767	State	1=yellowgr, 2=l.green, 3=green, 4=dark green, 5=purple green, 6=purple, 7=other
+769	State	2=acute, 4=intermediate, 6=rounded, 8=broadly rounded
+771	State	1=light green, 2=green, 3=dark green 4=red or purple green, 5=red or purple, 6=other
+775	State	1=white, 2=cream, 3=yellow, 4=yellow-gr., 5=green, 6=pink, 7=green-red, 8=purple, 9=red, 10=orange, 11= other
+777	State	nat.inf.:1=0-0.75%, 2=0.75-2, 3=2-4, 4=4-7, 5=7-13, 6=13-21, 7=21-36, 8=36-60, 9=60-100avg. of 4 scor. times, 3 repl.
+781	State	See: IBPGR Descriptors For Brassica and Raphanus, 1990, 4.2.2
+782	State	(1=pinkish,2=light green,3=creamy,4=pinkish cream,5=light pinkish,6=brownish,7=pinkish brown,8=brownish cream,9=green)
+785	Num	Days after sowing when 50% of plants have first harvestable fruit(s)
+800	State	See: IPGRI Descriptors for Melon (Cucumis melo L.), 2003, 7.7.15
+803	State	1 White 2 Yellow 3 Cream 4 Pale green 5 Green 6 Pale orange 7 Orange (yellow-red) 8 Salmon (pink-red) 99 Other
+797	State	1 Globular(round)2 Flattened 3 Oblate 4 Elliptical 5 Pyriform(pear) 6 Ovate 7 Acorn 8 Elongate 9 Scallop(shell) 99 Other
+807	State	Observed on main stem at first fruit set (1 = monoecious, 2 = hermafroditic, 3 = androecious, 4 = gynoecious, 99=other)
+809	Perc	Perc. in straw, determined by ATO: greenscutching method 1. See: Oever, 1993. Industrial Crops and Products 18, 231-243
+811	Perc	Perc. in straw determined by ATO: warm water retting method. See: Oever, 1993. Industrial Crops and Products 18, 231-243
+815	Perc	Peronospora parasitica Portuguese isolate 501, % sporulating plants
+817	Perc	Albugo candida UK isolate 001, % sporulating plants
+819	Stand	Res. to B. brassicae, 1=no damage, 2= slight, 3=moderate, 4=moderate but heavy investation, 5=severe, most plants dead,
+822	Perc	Percentage of partially resistant plants to mixture of 10 German clubroot race populations
+823	State	fysio 17 R=resistant (necrosis, no symptoms); MR:medium res(nec and sporulation); S:susceptible (spor); m:mixed reaction
+827	State	T=low to medium tolerance, S=completely susceptible
+829	State	Resistance to B. lactucae race Bl16 formerly NL16 (R=resistant. S=susceptible. H=heterogeneous)
+831	Perc	Resistance to B. lactucae race Bl16 (NL16), % sporulation (100=completely susceptible, 0=completely resistant)
+833	Perc	Resistance to B. lactucae race SR2 (Straubing, BY,1996),% sporulation (100=completely susceptible, 0=comp resistant)
+835	Perc	Resistance to B. lactucae race DEG2 (Deggendorf, BY,1996),% sporulation (100=completely susceptible, 0=comp resistant)
+837	State	3: plants not or slightly damaged; 5: plants partly damaged but recovering; 7: plants totally damaged, some plants dead
+840	State	of mature leaf: 1=yellowgr, 2=l.green, 3=green, 4=dark green, 5=purple green, 6=purple, 7=other
+843	State	Resistance to B. lactucae race Bl 1 (NL1, EU-A 11/58/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+845	State	Resistance to B. lactucae race Bl 3 (NL3, EU-A 56/59/01/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+847	State	Resistance to B. lactucae race Bl 5 (NL5, EU-A 05/27/01/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+849	State	Resistance to B. lactucae race Bl 7 (NL7, EU-A 47/59/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+851	State	Resistance to B. lactucae race Bl 11 (NL11, EU-A 57/59/03/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+853	State	Resistance to B. lactucae race Bl 13 (NL13, EU-A 21/63/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+855	State	Resistance to B. lactucae race Bl 15 (NL15, EU-A 31/31/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+865	State	Resistance to B. lactucae race Bl 25 (EU-A 59/31/42/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+867	State	Resistance to B. lactucae isolate SF1 (EU-A 23/59/35/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+869	State	Resistance to B. lactucae isolate IL4 (EU-A 27/63/03/01), scale: 1= resistant - 9= susceptible, C= conflicting data
+871	State	Resistance to B. lactucae isolate LDM0313 (BL25. sextet code 59/31/42/00). scale: 1 = resistant - 9 = susceptible
+873	State	observed when 50% of the plants bear ripe fruits. 3=erect, 5=intermediate, 7=prostrate, 99=other
+875	State	1=1, 2=2, 3=3 or more, 4= many flowers in bunches but each in individual axil, 99=Other(specify)
+877	State	1=White, 2=Yellow, 3=Green, 4=Orange, 5=Purple, 6=Deep purple, 99=Other (specify the fruit colour at intermediate stage)
+879	State	1=Elongate, 2=Almost round, 3=Triangular, 4=Campanulate, 5=Blocky (Oblong), 99=Other (specify the fruit shape)
+883	State	1=not incised, 2=pinnatilobed (up to 1/3), 3=pinnatifid (1/2), 4=pinnatipart (2/3), 5=pinnatisect (more than 2/3)
+885	State	1 White, 2 Intermediate, 3 Green
+886	State	1=majority with anthocyanin, 9=majority without anthocyanin
+889	State	0=entire, 1-crenate, 2=dentate, 3=serrate, 4=undulate, 5=doubly dentate, 6=other
+892	State	1=narrow acute, 2=acute, 3=obtuse, 4=rounded, 5=flat
+891	State	1=trans.elliptic,2=circular,3=ellip.,4=obovate,5=broad rectangular,6=rect.,7=narrow rect.,8=nar.obtriangular,9=iciclical
+898	Stand	0 = no damage, 1 = low damage, 5 = medium damage, 9 = high damage
+900	State	1 = resistant, 2 = susceptible
+901	State	1 = resistant, 2 = susceptible, 3 = tolerant, 4 = segregating for 2 and 3
+903	State	f. sp. Lycopersici, race 2 (R = resistant, IR = intermediately resistant, S = susceptible)
+906	State	minimum root rot index (RRI). 0=resistant, 5=susceptible
+909	Num	 count days after 1 May when 50% of florets have opened on 3 flowers
+911	Perc	Standaard ISTA method, using 100 seeds, pretreatment 3 days 5°C , TPL 20°C. Scored following 3rd edition ISTA Handbook on Seedling Evaluation
+912	Perc	Standaard ISTA method, using 200 seeds, pretreatment 3 days 5°C, TPL 20°C. Scored following 3rd edition ISTA Handbook on Seedling Evaluation
+913	Perc	Standaard ISTA method, using 100 seeds, pretreatment 3 days 10°C, BP 20°C, 8 h light
+914	Perc	Standaard ISTA method, using 200 seeds, pretreatment 3 days 10°C, BP 20°C, 8 h light
+915	Perc	Standaard ISTA method, using 100 seeds, pretreatment 48 hours soaking with 1000 ppm GA3 in the dark , TPL 20°C
+916	Perc	Standaard ISTA method, using 200 seeds, pretreatment 48 hours soaking with 1000 ppm GA3 in the dark, TPL 20°C
+917	Perc	Standaard ISTA method using 100 seeds, cutting not germinating seeds, SL 20°C
+918	Perc	Standaard ISTA method using 200 seeds, cutting not germinating seeds, SL 20°C
+919	Perc	Standaard ISTA method using 100 seeds, counting not germinating seeds with a hard seedcoat as dormant seeds, TP 20°C
+920	Perc	Standaard ISTA method using 200 seeds, counting not germinating seeds with a hard seedcoat as dormant seeds, TP 20°C
+921	Perc	Standaard ISTA method, using 200 seeds, without pretreatment 3 days 5°C, TPL 20°C
+922	Perc	Standaard ISTA method, using 200 seeds, KNO3, TPL 20-30°C
+923	Perc	Standaard ISTA method, using 200 seeds, SL 20-30°C
+924	Perc	Standaard ISTA method, using 200 seeds, BPL 15°C
+925	Perc	Standaard ISTA method, using 200 seeds, PPL 15°C
+926	Perc	Standaard ISTA method, using 200 seeds BPL 20°C
+927	Perc	Standaard ISTA method, using 200 seeds, TPL 20-30°C
+928	Perc	percentage of flowers that produce fruits
+929	Num	Days from transplanting
+930	State	In cotyl stage, mean severity. 0=resistent,..,4=very susceptible
+931	State	Proportion of infected kernals at soft dough stage. 0=no disease,..,5=maximum disease
+932	State	R=resistant, MR=moderately resistant, MS=moderately susceptible, S=susceptible, VR no symptoms observed
+933	Perc	% head infection after artificial inoculation
+934	State	1=entire; 2=lobed
+935	State	1=white; 2=yellow; 3=green; 4=pink; 5=red; 6=purple; 7=bronze; 8=brown; 9=black
+936	State	See IPGRI descriptors Brassica and Raphanus 1990 4.2.94
+937	State	See UPOV guidelines turnip 2001, 24
+938	Stand	3= low (flowering spread over several weeks); 5= intermediate; 7=high (all plants flowering within a few days)
+939	State	1=pasture, 2=fodder, 3=intermediate
+940	cm	Length (cm) of longest stem, inflorescence included
+941	Stand	1=little spreading; 7=major spreading
+942	Stand	In second year at time of inflorescence emergence. 1=very short, 9=very long
+943	Stand	In second year at time of inflorescence emergence. 1=very narrow, 9=very broad
+944	Num	Count days after 1 April when >50% plants show inflorescence emergence, 999=not flowering during experiment
+537	State	1= white, 2=light green, 3=green, 4=purple, 5=red, 6=other
+945	State	1=round, 2=elliptic, 3=obovate, 4=spatulate, 5=ovate, 6=lanceolate, 7=oblong
+946	State	1=nearly entire, 2=slightly waved, 3=deep sinuate, 4=pinnatipartite
+947	State	1=light green, 2=green, 3=dark green, 4=violet
+948	State	1=white, 2=creamy, 3=sulphureous, 4=yellow
+949	State	0=strong,..,9=weak
+950	mg/g	Mean nitrate content of two samples per accession, determined by spectrophotometry of dried material. Content is expressed in mg nitrate per g dry matter.
+951	µg/kg	-
+952	mg/kg	-
+953	Num	Time period (days) until marketable maturity
+954	Perc	Standaard ISTA method, using 200 seeds, pretreatment 7 days 10°C, KNO3, TPL 20-30°C, 8h light
+955	Perc	Standaard ISTA method, using 200 seeds, pretreatment 7 days 10°C, KNO3, TPL 10-30°C, 8h light
+956	Perc	Standaard ISTA method, using 200 seeds, pretreatment 2 days 10°C, KNO3, TPL 20-30°C, 8h light
+957	Perc	Standaard ISTA method, using 200 seeds, pretreatment 2 days 10°C, KNO3, TPL 10-30°C, 8h light
+958	Perc	Standaard ISTA method, using 200 seeds, pretreatment 3 days 10°C, TPL 20-30°C, 8h light
+959	Perc	Standaard ISTA method, using 150 seeds, cutting not germinating seeds, SL 20°C
+960	Perc	Standaard ISTA method, using 100 seeds, SL 20-30°C
+961	Perc	Standaard ISTA method, using 100 seeds, KNO3 0.2 %, TPL 20-30°C
+962	Perc	Standaard ISTA method, using 200 seeds, pretreatment 3 days 5C, TPL 20°C. Scored following 3rd edition ISTA Handbook on Seedling Evaluation with amendment of 2009
+963	State	Score 25, 50, 75,100, 125 and150. Where susceptible control cultivar Rami = 100
+965	cm	Distance from the end of silique to the tip in cm
+966	State	leaf without lobes. 1=round, 2= oval, 3= elongate
+967	Num	not vernalized plants: days between sowing and first open flower
+968	Num	Vernalized plants: days between sowing and first open flower
+969	State	on abaxial side; 0= no hairs, 1= few hairs; 2= many hairs
+970	State	on adaxial side; 0= no hairs, 1= few hairs; 2= many hairs
+971	cm	Distance from the tip lamina to the fist lobe in cm
+972	cm	excluding lobes, at the widest point in cm
+973	cm	incl. lobes, at widest point
+974	cm2	the whole surface of leaf, incl. lobes in cm2
+975	State	1= entire, 2=sinuate. 3=lyrate, 4=lacerate (See IPGRI descriptors Brassica and Raphanus 1990 4.2.18)
+976	State	1=non serrated; 2=slightly serrated; 3=intermediate serrated; 4=very serrated
+977	cm	From base of petiole to tip of lamina in cm
+978	Num	Number of lobes after lamina blade
+979	Num	Number of lobelets formed after the lobes
+980	mg/g	Of leaf, mg/g dry mass See Zhao 2007
+981	State	1=smooth, 2= wrinkled, 3= intermediate
+982	cm	measure at widest point
+983	Stand	3=narrow, 5=intermediate,7=enlarged (See IPGRI descriptors Brassica and Raphanus 1990 4.2.27)
+984	cm	Measure where blade intercepts with petiole (See IPGRI descriptors Brassica and Raphanus 1990 4.2.28
+985	cm	Measure where blade intercepts with petiole (See IPGRI descriptors Brassica and Raphanus 1990 4.2.29
+986	State	1=Gray- black; 2=Purple-gray-black; 3=Black-gray-purple; 4=Red-purple; 5=Red-purple-yellow; 6=Yellow red purple;7 = yellow
+987	mg/g	Of seed, mg/g dry mass See Zhao 2007
+988	cm	Distance from silique base to the base of beak in cm
+989	State	1=smooth, 2=undulating, 3=constricted between seeds
+990	cm	of mature plants
+991	µmol/g	of seed, µmol/g dry matter
+992	Perc	Standaard ISTA method using 200 seeds, TPL 20
+993	Perc	Standaard ISTA method using 200 seeds, pretreatment 0,05% GA3, TPL 15°C
+994	Perc	Unheated greenhouse test in summer, using 200 seeds, counting healthy seedlings
+995	Perc	Standaard ISTA method using 50 seeds, pretreatment 3 days 10°C, BP 20°C, 8 h light
+996	Perc	Standaard ISTA method using 150 seeds, pretreatment 3 days 10°C, BP 20°C, 8 h light
+997	Perc	Standaard ISTA method using 50 seeds, cutting not germinating seeds, SL 20°C
+998	Perc	Seeds germinated in petridish, using 50 seeds, pretreatment 48 hours soaking with 1000 ppm GA3 in the dark, counting healthy seedlings
+999	Perc	Seeds germinated in petridish, using 50 seeds, counting healthy seedlings
+1000	State	1=0°; 2=0-22.5°; 3=22.5°; 4=22.5-45°; 5=45°; 6:45-67.5°; 7=67.5°
+1001		of leaves using SPAD meter
+1002	Perc	Unheated greenhouse test in summer, using 100 seeds, pretreatment 48 hours soaking with 1000 ppm GA3 in the dark, counting healthy seedlings
+1003	Stand	Pa3 nematode rinse test. 10 genotypes/acc in duplo. Inoculum 15 cysts E400 /plant. Weighted mean (1=susc., 9=resistant)
+1004	Stand	Pa3 nematode closed container test. Inoculum E400 cysts. (1=susc., 9=resistant)
+1006	State	Resistance to Nasonovia ribisnigri (pathotype Nr:0), scale: 1= resistant - 9= susceptible, C= conflicting data
+1007	Num	Resistance to B. lactucae race Bl:16, number of plants showing sporulation with the total number of plants between brackets
+1008	Num	Resistance to B. lactucae race Bl:18, number of plants showing sporulation with the total number of plants between brackets
+1009	Num	Resistance to B. lactucae race Bl:20, number of plants showing sporulation with the total number of plants between brackets
+1010	Num	Resistance to B. lactucae race Bl:21, number of plants showing sporulation with the total number of plants between brackets
+1011	Num	Resistance to B. lactucae race Bl:22, number of plants showing sporulation with the total number of plants between brackets
+1012	Num	Resistance to B. lactucae race Bl:23, number of plants showing sporulation with the total number of plants between brackets
+1013	Num	Resistance to B. lactucae race Bl:24, number of plants showing sporulation with the total number of plants between brackets
+1014	Num	Resistance to B. lactucae race Bl:25, number of plants showing sporulation with the total number of plants between brackets
+730	Perc	Germination test at CGN using 50 seeds, and cut the seed top
+731	State	(1=green, 2=light green, 3=pinkish)
+732	State	(1=erect, 9=serrate)
+733	State	(1=tall, 2=dwarf, 3=very dwarf, 4=intermediate)
+734	State	(3=hard, 4=soft)
+736	State	(1=wrinkled, 2=round, 3=oval)
+738	mm	Measured at harvest for vegetable use, average of five fresh pods
+739	g	average of five
+741	Num	average of five dry pods
+743	State	(0=highly resistant,.., 5=highly susceptible) natural infection in the field
+745	micg	concentration (mic.gram/gram shoot, average of 3 plants)
+746	micg	concentration (mic.gram/gram root, average of 3 plants)
+748	micg	total amount in root (average of 3 plants)
+750	micmol	µmol/100 g dry weight in mature plants
+752	Perc	isolate Acem2: % of plants showing pathogen sporulation
+753	Perc	% dry matter
+755	Perc	% oil dry matter
+757	Perc	% of total fatty acids
+758	Perc	% feeding damage (average of 6 recordings)
+760	Num	number of infested stems per 10 sampled plants
+761	Num	mean no. of larvae / plant (of 10 sampled plants)
+763	Perc	isolate Ms6: 0%=completely resistant, 100%=completely susceptible
+765	State	relative plant weight reduction: 1=<20%, 2=21-40%, 3=>41%
+766	State	relative curd weight reduction: 1=<20%, 2=21-40%, 3=>41%
+768	State	1=narrow ovate, 2=ovate, 3=broad ovate
+770	Num	stem length/stem width
+772	State	1=concave, 2=plane, 3=convex
+773	Num	days after sowing when 50% of kohlrabis reach 7 cm diameter
+774	State	1=completely uniform, 2=not uniform, 3=every plant different
+776	State	when 50% plants with at least 10% flowers: 3=early, 5=medium, 7=late
+778	g	per plot of 1 m2
+779	State	See: IBPGR Descriptors For Brassica and Raphanus, 1990, 4.2.82
+780	State	See: IBPGR Descriptors For Brassica and Raphanus, 1990, 4.2.73
+783	State	(1 = no attack, 2 = < 10% leaf area damage, 3 = 10-25% l.a.d., 4 = 25-50% l.a.d., 5 = > 50% l.a.d.)
+784	Num	Days after sowing when 50% of plants have opened the first flower(s)
+786	State	0= no symptoms visible, 1= 1-5%, 2=5-25%, 3=25-50%, 4=50-100% leaf area infected
+787	State	0= no symptoms, 1= symptoms
+788	State	1 determinate, 2 semi-determinate, 3 indeterminate
+789	State	1 dwarf, 2 potato leaf type, 3 standard, 4 other
+790	State	1 generally simple, 2 generally two branches, 3 three or more branches
+793	State	1 green, 2 yellow, 3 orange, 4 pink, 5 red, 6 other
+794	Stand	1 very weak, 3 weak, 5 intermediate, 7 strong
+795	State	0 absent, 1 present
+791	State	0 absent(unif. Ripe.), 1present (fr.shoulder or stripes-upper part of fr., around calyx- d.green, pistilar area l.green
+792	State	1flattened(oblate), 2sl. fl., 3rounded, 4high rou., 5heart shape, 6cyl.(oblong), 7pyriform, 8ellipsoid (plum sh.), 9oth.
+796	State	1 Monoecious 2 Andromonoecious 3 Gynoecious 4 Male sterile 5 Female sterile
+798	State	1 White 2 Light-yellow 3 Cream 4 Pale green 5 Green 6 Dark green 7 Blackish-green 8 Orange 9 Brown 10 Grey 99 Other
+799	State	1 White 2 Light-yellow 3 Cream 4 Pale green 5 Green 6 Dark green 7 Blackish-green 8 Orange 9 Brown 10 Grey 99 Other
+801	State	See: IPGRI Descriptors for Melon (Cucumis melo L.), 2003, 7.7.16
+802	Stand	0 Absent 3 Superficial 5 Intermediate 7 Deep
+804	State	1 White 2 Yellow-white 3 Cream-yellow 4 Yellow 5 Light brown or tan 6 Brown 99 Other
+805	Perc	Germination test at CGN using 25 seeds, and cut the seed top
+806	State	Scored at table use maturity (0 = absent spines, 1 = black, 2 = brown, 3 = white, 99=other)
+808	Perc	Percentage measured with a brix meter
+810	Perc	Perc. in straw, determined by CGN: greenscutching method 2. See: Oever, 1993. Industrial Crops and Products 18, 231-243
+812	State	1 very small (3cm), 2 small (3-5cm), 3 intermediate (5.1-8 cm), 4 large (8.1-10 cm), 5 very large (>10cm)
+813	Perc	Peronospora parasitica UK isolate 005, % sporulating plants
+814	Perc	Peronospora parasitica UK isolate 006, % sporulating plants
+816	Perc	Peronospora parasitica Portuguese isolate 502, % sporulating plants
+818	Perc	Albugo candida Portuguese isolate 501, % sporulating plants
+820	Stand	0=none; 1=slight; 2=intense; 3=segregating
+821	Stand	1=very susceptible; 3=susceptible; 5=medium; 7=tolerant; 9=highly tolerant
+824	Perc	Resistance to Fusarium oxysporum f.sp. conglutinans race 2. Scores: % resistant plants
+825	Perc	Resistance to  Alternaria brassicola. Scores: % highly tolerant plants
+826	State	R=resistant, S= susceptible to some tolerance
+828	State	Resistance to race 7 (formerly race 5), R=resistant, S=susceptible
+830	Perc	Adjusted ISTA method, 200 seeds, cold period 4 days at 5°C.
+832	Perc	Resistance to B. lactucae race FS1 (Freising, BY,1996), % sporulation (100=completely susceptible, 0=comp resistant)
+834	Perc	Resistance to B. lactucae race SAW1 (Salzwedel, BY,1996),% sporulation (100=completely susceptible, 0=comp resistant)
+836	Stand	1=low percentage surviving plants; 9=relatively high percentage surviving plants
+838	Num	number pure hybrid plants per 100 pollinated buds
+839	State	of center leaf: 1=yellowgr, 2=l.green, 3=green, 4=dark green, 5=purple green, 6=purple, 7=other
+841	Stand	Bottom of head. 1=very rough (Golden Acre type); 9= very smooth (storage type)
+842	Stand	1= very white; 9=very yellow
+844	State	Resistance to B. lactucae race Bl 2 (NL2, EU-A 63/58/00/01), scale: 1= resistant - 9= susceptible, C= conflicting data
+846	State	Resistance to B. lactucae race Bl 4 (NL4, EU-A 27/59/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+848	State	Resistance to B. lactucae race Bl 6 (NL6, EU-A 27/62/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+850	State	Resistance to B. lactucae race Bl 10 (NL10, EU-A 63/59/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+852	State	Resistance to B. lactucae race Bl 12 (NL12, EU-A 57/63/03/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+854	State	Resistance to B. lactucae race Bl 14 (NL14, EU-A 63/62/00/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+856	State	Resistance to B. lactucae race Bl 16 (NL16, EU-A 63/31/02/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+857	State	Resistance to B. lactucae race Bl 17 (EU-A 22/59/41/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+858	State	Resistance to B. lactucae race Bl 18 (EU-A 59/31/10/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+859	State	Resistance to B. lactucae race Bl 19 (EU-A 63/62/00/01), scale: 1= resistant - 9= susceptible, C= conflicting data
+860	State	Resistance to B. lactucae race Bl 20 (EU-A 63/31/10/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+861	State	Resistance to B. lactucae race Bl 21 (EU-A 63/31/51/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+862	State	Resistance to B. lactucae race Bl 22 (EU-A 59/63/09/00), scale: 1= resistant - 9= susceptible, C= conflicting data
+1115	Perc	Standaard ISTA methode using 100 seeds, TP 20-30°C
+1131	Perc	Seed germination in petridishes, using 100 seeds at room temperature alternately with 3 days in refrigerator
+1174	Perc	Seeds germinated Top Of Paper, Light (TPL), cutting seedtop/cracking seeds, using 100 seeds, 22-25°C, counting healthy seedlings
+1175	Perc	Seeds germinated Top Of Paper, Light (TPL), using 100 seeds, 22-25°C, counting healthy seedlings
+1176	Perc	Seeds germinated in soil, using 100 seeds, in heated greenhouse in autumn and counting healthy seedlings
+1177	Perc	Seeds germinated in soil, using 200 seeds, in heated greenhouse in autumn and counting healthy seedlings
+1178	Perc	Seeds germinated in petridish, using 50 seeds, after cold treatment and cutting the seedtop at room temperature
+1179	Perc	Seeds germinated in soil, using 50 seeds, after coldtreatment in heated greenhouse in winter and counting healthy seedlings
+1143	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs1; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1144	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs2; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1145	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs3; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1146	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs4; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1147	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs5; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1148	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs6; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1149	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs7; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1150	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs8; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1151	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs10; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1152	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs11; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1153	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs12; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1154	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs13; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1155	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs14; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1156	Fract.	Resistance to P. farinosa f. sp. spinaciae Pfs15; weigthed avg of the number of susceptible (0), partially resistant (0.5) and resistant (1) plants; avg score of duplo's presented, range: 0 = susceptible - 1 = resistant, C= duplo's differing >0.5.
+1166	Perc	Percentage of seedlings without virus symptoms and no virus detected after ELISA
+1167	Perc	Seeds germinated in soil, using 100 seeds, in heated greenhouse in summer and counting healthy seedlings
+1168	Perc	Seeds germinated in soil, using 200 seeds, in heated greenhouse in summer and counting healthy seedlings
+1169	Perc	Seeds germinated in soil, using 200 seeds, in unheated greenhouse in summer and counting healthy seedlings
+1170	Perc	Seeds germinated in soil, using 50 seeds, in unheated greenhouse in summer and counting healthy seedlings
+1171	Perc	Seeds germinated in soil, using 50 seeds, in heated greenhouse in autum and counting healthy seedlings
+1172	Perc	Seeds germinated in soil, using 50 seeds, (pre)treatment +4°C, unheated greenhouse in summer and counting healthy seedlings
+1173	Perc	Seeds germinated in soil, using 100 seeds, (pre)treatment +4°C, unheated greenhouse in summer and counting healthy seedlings
+1070	State	1 = absent, 2 = open head, 3 = closed head (overlapping),
+1071	Stand	1 = very weak, 3 = weak, 5 = medium, 7 = strong, 9 = very strong
+1072	Stand	1 = very loose, 3 = loose, 5 = medium, 7 = dense, 9 = very dense
+1073	State	1 = narrow elliptic, 2 = broad elliptic, 3 = circular, 4 = transverse elliptic
+1074	Stand	1 = very thin, 3 = thin, 5 = medium, 7 = thick, 9 = very thick
+1075	State	1 = erect, 3 = semi-erect, 5 = horizontal
+1076	Stand	1 = narrow elliptic, 2 = medium elliptic, 3 = broad elliptic, 4 = circular, 5 = transverse broad elliptic, 6 = transverse narrow elliptic, 7 = obovate, 8 = broad obtrullate, 9 = triangular
+1077	State	1 = diffused only, 2 = spotted only, 3 = diffused and spotted
+1078	State	1 = localised, 2 = entire
+1079	State	Resistance to LMV strain Ls 1, scale: 1 = susceptible, 9 = tolerant
+1080	State	Resistance to Nasonovia Nr 0, scale: 1 = susceptible, 9 = tolerant
+1081	Stand	1 = very small, 3 = small, 5 = medium, 7 = large
+1082	Stand	1 = absent or very weak, 3 = weak, 5 = medium, 7 = strong, 9 = very strong
+1083	State	Resistance to B. lactucae race Bl 1, scale:1 = susceptible, 9 = resistant
+1084	State	Resistance to B. lactucae race Bl 2, scale:1 = susceptible, 9 = resistant
+1085	State	Resistance to B. lactucae race Bl 3, scale:1 = susceptible, 9 = resistant
+1086	State	Resistance to B. lactucae race Bl 4, scale:1 = susceptible, 9 = resistant
+1087	State	Resistance to B. lactucae race Bl 5, scale:1 = susceptible, 9 = resistant
+1088	State	Resistance to B. lactucae race Bl 6, scale:1 = susceptible, 9 = resistant
+1089	State	Resistance to B. lactucae race Bl 7, scale:1 = susceptible, 9 = resistant
+1090	State	Resistance to B. lactucae race Bl 10, scale:1 = susceptible, 9 = resistant
+1091	State	Resistance to B. lactucae race Bl 11, scale:1 = susceptible, 9 = resistant
+1092	State	Resistance to B. lactucae race Bl 12, scale:1 = susceptible, 9 = resistant
+1093	State	Resistance to B. lactucae race Bl 13, scale:1 = susceptible, 9 = resistant
+1094	State	Resistance to B. lactucae race Bl 14, scale:1 = susceptible, 9 = resistant
+1095	State	Resistance to B. lactucae race Bl 15, scale:1 = susceptible, 9 = resistant
+1096	State	Resistance to B. lactucae race Bl 16, scale:1 = susceptible, 9 = resistant
+1097	State	Resistance to B. lactucae race Bl 17, scale:1 = susceptible, 9 = resistant
+1098	State	Resistance to B. lactucae race Bl 18, scale:1 = susceptible, 9 = resistant
+1099	State	Resistance to B. lactucae race Bl 19, scale:1 = susceptible, 9 = resistant
+1100	State	Resistance to B. lactucae race Bl 20, scale:1 = susceptible, 9 = resistant
+1101	State	Resistance to B. lactucae race Bl 21, scale:1 = susceptible, 9 = resistant
+1102	State	Resistance to B. lactucae race Bl 22, scale:1 = susceptible, 9 = resistant
+1103	State	Resistance to B. lactucae race Bl 23, scale:1 = susceptible, 9 = resistant
+1104	State	Resistance to B. lactucae race Bl 24, scale:1 = susceptible, 9 = resistant
+1105	State	Resistance to B. lactucae race Bl 25, scale:1 = susceptible, 9 = resistant
+1106	State	Resistance to B. lactucae race Bl 26, scale:1 = susceptible, 9 = resistant
+1107	State	1 = globular without collar
+1108	Stand	1 = very erect, 3 = erect, 5 = semi-erect, 7 = horizontal
+1109	Stand	1 = very narrow, 3 = narrow, 5 = medium, 7 = broad, 9 = very broad
+1110	State	1 = elliptic, 2 = obovate, 3 = spatulate
+1111	State	1 = absent
+1112	State	1 = absent or very weak
+1113	State	Resistance to Peronospora valerianellae fysio 1, scale:  1 = susceptible, 9 = resistant
+1114	State	Resistance to Peronospora valerianellae fysio 2, scale:  1 = susceptible, 9 = resistant
+1116	Days	Untreated, number of days between germination and bolting, > = not bolting during experiment
+1117	Days	Vernalized, number of days between germination and bolting, > = not bolting during experiment
+1118	Days	Untreated, umber of days between germination and first seed release, > = no seed release during experiment
+1119	Days	Vernalized, umber of days between germination and first seed release, > = no seed release during experiment
+1120	Num	Untreated, number of leaves at bolting time, > = not bolting during experiment
+1121	Num	Vernalized, number of leaves at bolting time, > = not bolting during experiment
+1122	mm	Untreated, stem length from soil surface to the end of the inflorescence at seed release time, > = no seed release during experiment
+1123	mm	Vernalized, stem length from soil surface to the end of the inflorescence at seed release time, > = no seed release during experiment
+1124	g	Untreated, total seed weight at harvesting time, > = no seed release during experiment
+1125	g	Vernalized, total seed weight at harvesting time, > = no seed release during experiment
+1126	g	Untreated, dry weight of above ground biomass at harvesting time
+1127	g	Vernalized, dry weight of above ground biomass at harvesting time
+1130	Scale	0 = no symptoms, 1 = one leaf wilted, 2 = more than one leaf but < 50% of leaves are wilted, 3 = between 50-75% of leaves are wilted, 4 = more than 75% but not all leaves are wilted, 5 = whole plant wilted and death
+1165	Stand.	Pa3 nematode closed container test, 3 replicates. Inoculum population comparable with E400. (1=susc., 9=resistant)
+1180	Perc	Broken fruits, sprayed with water during 3 days, germinating in cold glasshouse in autum and winter, vary with 3 days of 4 C, during 2-6 months, using 50 seeds
+1135	Perc	Standard ISTA method, using 100 seeds, pretreatment 24 hours soaking with 700 ppm GA3 in the dark TPL 20°C
+1136	Perc	Standard ISTA method, using 200 seeds, PPL 20°C
+1137	Perc	Standard ISTA method, using 200 seeds, TPL 20-30°C and cutting the seedcoat
+1138	Perc	Seeds germinated in petridish, using 50 seeds, room temperature,alternately refrigerator for breaking dormancy
+1157	Perc	Seeds germinated in soil, using 25-50 seeds in greenhouse
+1164	Perc	Seeds germinated in petridish, using 100 seeds
+1132	State	1 = not uniform...5 = uniform
+1139	Perc	Standard ISTA method using 100 seeds, pretreatment 2 days 10°C, KNO3, TPL 20-30, 8h light.
+1140	Perc	Unheated greenhouse, using 150 seeds, counting healthy seedlings.
+1141	Perc	Standard ISTA method, using 100 seeds, without pretreatment 3 days 5°C, TPL 20 C. Scored by using 3rd ed. ISTA Handb.On Seedl.Eval with amendment of 2009
+1181	Perc	Seeds germinated in petridish, using 50 seeds, 15°C temperature day and night
+1182	Perc	Seeds germinated in soil, using 100 seeds, in heated greenhouse in spring and counting healthy seedlings
+1128	Perc	Standard ISTA method, using 200 seeds, pretreatment 24 hours soaking with 700 ppm GA3 in the dark TPL 20°C
+1129	Perc	Broken fruits, sprayed with water during 3 days, germinating in glasshouse at 15-20°C, vary with 3 days of 4 C, during 2 months, using 100 seeds
+1133	Scale	1 = pale green/some yellowing.....5 = very dark green
+1134	State	1 =  shrivelled leaves lying flat to the ground...5 = very upright with no leaves in contact with the soil
+1142	Perc	Seeds germinated in petridish, using 25-50 seeds and 30°C
+1158	Perc	Seeds germinated in soil, using 100 seeds, in unheated greenhouse in summer and counting healthy seedlings
+1159	Stand	Resistance to a mixture of B. lactucae races Bl:29 (EU-B 59-63-47-03) and Bl:31 (EU-B 63-63-12-06) and isolate AS-11 (63-31-58-01), scoring: 1=resistant, 9=susceptible
+1160	Perc	Standard ISTA method, using 200 seeds. Pretreatment 3 days 5C, TPL 20C. Scored by using 3rd ed. ISTA Handb. On Seedl. Eval with amendment of 2009
+1161	Perc	Standard ISTA method, using 200 seeds, TPL 20-30 C
+1162	Perc	Greenhouse tests (unheated in summer, heated in winter) using 100 seeds, pretreatment 24 hours soaking with 700 ppm GA3 in the dark, counting healty seedlings
+1163	Perc	Unheated greenhouse tests in summer, using 200 seeds, pretreatment 24 hours soaking with 700 ppm GA3 in the dark, counting healty seedlings
+1185	Perc	100 seeds germinated TOP, after cold treatment of 4 days at +4 C, 8 hrs light (TPL) T 20-30 C
+1186	Perc	200 seeds germinated TOP, after cold treatment of 4 days at +4 C, 8 hrs light (TPL) T 20-30 C
+1184	Perc	Seed germination test in petridish, using 50 seeds at room temperature, counting healty seedlings
