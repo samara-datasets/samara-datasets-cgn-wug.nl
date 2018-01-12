@@ -1,4 +1,4 @@
-# samara-datasets-cgn-wug.nl
+# samara-datasets-cgn-wur.nl
 Snapshot of a crop phenotype database maintained by the Centre for Genetic Resources at Wageningen University Netherlands provided By Frank Menting in Jan 2018.
 
  filename | description 
