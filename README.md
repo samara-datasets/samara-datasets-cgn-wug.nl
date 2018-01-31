@@ -1,6 +1,8 @@
 # samara-datasets-cgn-wur.nl
 Snapshot of a crop phenotype database maintained by the Centre for Genetic Resources at Wageningen University of the Netherlands provided by Frank Menting in Jan 2018.
 
+This repository was created via an effort to discover openly available plant trait datasets. For more info, see https://github.com/jhpoelen/samara and https://github.com/jhpoelen/samara/blob/master/sources.md .
+
  filename | description 
  --- | ---
  [CGN_Phenotypic_data.xlsx](./CGN_Phenotypic_data.xlsx) | original snapshot
